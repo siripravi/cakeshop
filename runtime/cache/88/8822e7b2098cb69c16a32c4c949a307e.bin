@@ -1,0 +1,1 @@
+a:2:{i:0;a:1:{i:0;a:1:{i:0;a:12:{s:2:"id";i:1;s:4:"name";s:5:"baker";s:10:"is_default";i:1;s:9:"is_active";i:1;s:10:"is_deleted";i:0;s:4:"host";s:12:"luyacms.test";s:7:"aliases";N;s:16:"redirect_to_host";i:0;s:8:"theme_id";i:1;s:12:"default_lang";N;s:9:"group_ids";s:13:"[{"value":0}]";s:8:"user_ids";s:13:"[{"value":0}]";}}}i:1;N;}

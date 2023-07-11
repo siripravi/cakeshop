@@ -1,0 +1,68 @@
+a:2:{i:0;s:3359:"<section id="contact">
+    <div class="container my-6 pt-6">
+        <div class="bg-light text-secondary rounded-bottom p-5 my-6 mt-0  pt-4 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="row g-4 align-items-center">
+                <div class="col-lg-6">
+                    <h1 class="display-6 text-secondary mb-0">The Best Bakery In Madhapur</h1>
+                </div>
+                <div class="col-lg-6 text-lg-end">
+                    <div class="d-inline-flex align-items-center text-start">
+                        <i class="fa fa-phone-alt fa-4x flex-shrink-0"></i>
+                            <div class="ms-4">
+                                <h4 class="display-5 fs-5 fw-bold mb-0">Call Us</h4>
+                                <p class="display-4 text-info mb-0 fs-1 fw-bold mb-0">+012 345 6789</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> 
+
+        <!--<div id="contact-submission" class="contact-section">
+            <div class="contact-us">
+                <div class="subtitle">
+                    <h2>CONTACT US</h2>
+                    <p>Our Company is the best, meet the creative team that never sleeps. Say something to us we will answer to you.</p>
+                    <span class="send-input-message"></span>
+                    <span id="sendError" class="input-error"></span>
+                </div>
+
+                <form id="contactForm" method="POST">
+                    <label for="customerName">NAME <em>*</em></label>
+                    <span id="nameError" class="input-error"></span>
+                    <input id="customerName" name="customerName" required="" type="text">
+
+                    <label for="customerEmail">EMAIL <em>*</em></label>
+                    <span id="emailError" class="input-error"></span>
+                    <input id="customerEmail" name="customerEmail" required="" type="email">
+
+                    <label for="customerPhone">PHONE</label>
+                    <span id="phoneError" class="input-error"></span>
+                    <input id="customerPhone" name="customerPhone" type="tel">
+                    
+                    <label for="orderNumber">ORDER NUMBER</label>
+                    <input id="orderNumber" name="orderNumber" type="text">
+                    
+                    <label for="customerNote">YOUR MESSAGE <em>*</em></label>
+                    <span class="input-error"></span>
+                    <textarea id="customerNote" name="customerMessage" required="" rows="4"></textarea>
+                    <br>
+
+                    <div class="push-button">
+                        <span><button id="submit" name="submit">SUBMIT</button></span>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        -->
+    <div class="map">
+        <div class="subtitle">
+            <h2 class="text-center">LOCATE US</h2>
+        </div>
+        <div class="google-map">
+        <iframe id="gmap_canvas" src="https://maps.google.com/maps?q=17.45473759,78.40226937&output=embed" width="100%"" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>   
+        </div>
+    </div>
+</section>";i:1;N;}

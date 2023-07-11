@@ -1,0 +1,1 @@
+a:2:{i:0;a:1:{i:1;a:6:{s:2:"id";i:1;s:4:"name";s:10:"homeslider";s:8:"parentId";i:0;s:10:"filesCount";i:0;s:11:"toggle_open";i:0;s:9:"subfolder";b:0;}}i:1;O:24:"yii\caching\DbDependency":5:{s:4:"data";a:1:{s:7:"MAX(id)";i:1;}s:8:"reusable";b:0;s:2:"db";s:2:"db";s:3:"sql";s:68:"SELECT MAX(id) FROM {{%admin_storage_folder}} WHERE is_deleted=false";s:6:"params";a:0:{}}}

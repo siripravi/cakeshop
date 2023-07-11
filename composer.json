@@ -1,0 +1,46 @@
+{
+    "name": "luyadev/luya-kickstarter-bootstrap4",
+    "description": "LUYA boilerplate to kickstart projects with Bootstrap 4.",
+    "type": "luya-kickstarter",
+    "license":"MIT",
+    "require": {
+        "luyadev/luya-module-admin" : "^4.0",
+        "luyadev/luya-module-cms" : "^4.0",
+        "luyadev/luya-bootstrap4": "^1.0",
+        "luyadev/luya-generic" : "^1.0",
+        "voskobovich/yii2-many-many-behavior": "^3.0",
+        "luyadev/luya-blog": "^1.1",
+        "creocoder/yii2-nested-sets": "0.9.*",
+        "siripravi/category": "dev-master",
+        "yiisoft/yii2-bootstrap4": "~2.0.6",
+        "luyadev/luya-module-contactform": "~1.0.0",
+        "luyadev/luya-module-gallery": "^1.0",
+        "kartik-v/yii2-widgets": "*",
+        "powerkernel/yii2-photoswipe": "*",
+        "conquer/select2": "*"
+        
+        
+        
+    },
+    "require-dev": {
+        "yiisoft/yii2-debug" : "^2.0",
+        "yiisoft/yii2-gii" : "^2.0",
+        "luyadev/luya-deployer": "^1.0",
+        "twbs/bootstrap": "^4.0"
+    },
+    "config": {
+        "fxp-asset": {
+            "enabled": false
+        },
+        "allow-plugins": {
+            "yiisoft/yii2-composer": true,
+            "luyadev/luya-composer": true
+        }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}

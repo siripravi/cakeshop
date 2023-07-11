@@ -1,0 +1,47 @@
+# Your project's server will run on proxy
+PROXY: "https://localhost"
+
+
+# Autoprefixer will make sure your CSS works with these browsers
+COMPATIBILITY:
+  - "last 2 versions"
+  - "ie >= 9"
+
+# Gulp will reference these paths when it copies files
+PATHS:
+  # Path to dist folder
+  dist: "./assets/dist"
+  # Path to source folder
+  src: "./assets/src"
+  # Paths to fonts
+  fonts:
+    - "./node_modules/font-awesome/fonts/**/*"
+    - "./node_modules/bootstrap/fonts/**/*"
+    - "./node_modules/bootstrap-icons/font/bootstrap-icons.css"
+  # Paths to Sass libraries, which can then be loaded with @import
+  sass:
+    - "./node_modules/bootstrap/scss"
+    - "./node_modules/fontawesome/scss"
+   
+  # Paths to JavaScript libraries, which are compined into one file
+  javascript:
+    - "./node_modules/jquery/dist/jquery.js"
+    - './assets/src/lib/modernizr-3.7.1.min.js'
+    #- "./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+    - './assets/src/js/bootstrap-4.5.2.min.js'
+    - './assets/src/js/popper.min.js'
+
+    - "../vendor/yiisoft/yii2/assets/yii.js"
+    - "../vendor/yiisoft/yii2/assets/yii.validation.js"
+    - "../vendor/yiisoft/yii2/assets/yii.activeForm.js"
+   
+    #- './assets/src/js/smooth-scroll.js'
+    - './assets/src/lib/jquery.dropotron.min.js'
+    - './assets/src/js/main.js'
+   # - './assets/src/lib/waypoints/waypoints.min.js'
+   # - './assets/src/lib/counterup/counterup.min.js'
+   # - './assets/src/lib/owlcarousel/owl.carousel.min.js'
+   # - "./assets/src/js/main.js"
+   #- "./assets/src/js/!(custom).js"
+   #- "./assets/src/js/custom.js"
+ 

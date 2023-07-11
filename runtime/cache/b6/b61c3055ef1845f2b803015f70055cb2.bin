@@ -1,0 +1,47 @@
+a:2:{i:0;s:2266:"<section class="how-to-order">
+    <div class="container">
+      <div class="section-heading my-5 text-center">
+          <h4>Ordering Process</h4>
+          <h1 class="display-4">How to Order</h1>
+      </div>
+          
+            <div class="row flex text-center" style="color: #FF7380FF;">
+                <div class="col-12 col-md-2 mb-4 mb-md-0" data-aos="fade-up">
+                        <div class="shop-info">
+                            <i class="fas fa-birthday-cake"></i>
+                            <h1 class="mb-4">Choose Your Cake</h1>
+                            <p></p>                            
+                        </div>
+                 </div>
+                 <div class="col-12 col-md-2 mb-4 mb-md-0" data-aos="fade-up">
+                        <div class="shop-info">
+                            <i class="fas fa-cart-plus"></i>
+                            <h1 class="mb-4">Add to Cart</h1>
+                            <p></p>                            
+                        </div>
+                 </div>
+                 <div class="col-12 col-md-2 mb-4 mb-md-0" data-aos="fade-up">
+                        <div class="shop-info">
+                            <i class="fas fa-money-check-alt"></i>
+                            <h1 class="mb-4">Checkout</h1>
+                            <p></p>                            
+                        </div>
+                 </div>
+                 <div class="col-12 col-md-2 mb-4 mb-md-0" data-aos="fade-up">
+                        <div class="shop-info">
+                            <i class="fas fa-box-open"></i>
+                            <h1 class="mb-4">We pack it up</h1>
+                            <p></p>                            
+                        </div>
+                 </div>
+                 <div class="col-12 col-md-2 mb-4 mb-md-0" data-aos="fade-up">
+                        <div class="shop-info">
+                            <i class="fas fa-shipping-fast"></i>
+                            <h1 class="mb-4">Fast Delivery</h1>
+                            <p></p>                            
+                        </div>
+                 </div>
+               
+            </div>
+    </div>      
+</section>";i:1;N;}

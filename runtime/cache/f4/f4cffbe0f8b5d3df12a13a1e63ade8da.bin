@@ -1,0 +1,34 @@
+a:2:{i:0;s:1849:"<section class="xwhat-you-can-do" style="background-color:#623b23;">
+    <div class="container">
+      <div class="section-heading my-5 text-center">
+          <h4>WHAT YOU CAN DO</h4>
+          <h1 class="display-4">These services we provide</h1>
+      </div>
+          
+            <div class="row flex text-center" style="color: #FF7380FF;">
+                <div class="col-12 col-md-4 mb-4 mb-md-0 aos-init aos-animate" data-aos="fade-up">
+                        <div class="shop-info">
+                            <i class="fas fa-mitten"></i>
+                            <h1 class="mb-4">Freshly Baked Cakes</h1>
+                            <p>Get a taste of our freshly prepared cakes by ordering online!</p>                            
+                        </div>
+                 </div>
+                 <div class="col-12 col-md-4 mb-4 mb-md-0 aos-init aos-animate" data-aos="fade-up">
+                        <div class="shop-info">
+                            <i class="fas fa-mitten"></i>
+                            <h1 class="mb-4">Customize your Cake</h1>
+                            <p>You can customize your cake with your favourite glazing, toppings, color and more!</p>                            
+                        </div>
+                 </div>
+                 <div class="col-12 col-md-4 mb-4 mb-md-0 aos-init aos-animate" data-aos="fade-up">
+                        <div class="shop-info">
+                            <i class="fas fa-boxes"></i>
+                            <h1 class="mb-4">Custom Cakebox</h1>
+                            <p>You can add different types of cakes in a box and we deliver it to you!</p>                            
+                        </div>
+                 </div>
+                
+               
+            </div>
+    </div>      
+</section>";i:1;N;}
