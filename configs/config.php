@@ -37,8 +37,8 @@ $config = new Config('myproject', dirname(__DIR__), [
        /* 'eshopadmin' => [
             'class' => 'app\modules\eshop\admin\Module',
         ],*/
-        'catalog' => 'app\modules\catalog\frontend\Module',
-        'catalogadmin' => 'app\modules\catalog\admin\Module',
+        'catalog' => 'siripravi\catalog\frontend\Module',
+        'catalogadmin' => 'siripravi\catalog\admin\Module',
 
         //'categorytree' => 'app\modules\categorytree\frontend\Module',
        // 'categoryadmin' => 'siripravi\category\admin\Module',

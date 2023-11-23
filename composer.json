@@ -17,7 +17,8 @@
         "luyadev/luya-module-gallery": "^1.0",
         "kartik-v/yii2-widgets": "*",
         "powerkernel/yii2-photoswipe": "*",
-        "conquer/select2": "*"
+        "conquer/select2": "*",
+        "siripravi/catalog": "^1.0"
         
         
         
