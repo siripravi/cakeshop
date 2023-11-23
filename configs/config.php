@@ -165,6 +165,7 @@ $config->callback(function() {
 $config->component('db', [
    // 'dsn' => 'mysql:host=localhost;dbname=cakeonca_bakerdb',
     'dsn' => 'mysql:host=localhost;dbname=cakeoncall',
+    //!'tablePrefix' => 'nxt_',
     'username' => 'root',
     'password' => ''
     // 'dsn' => 'mysql:host=localhost;dbname=DB_NAME;unix_socket=/Applications/MAMP/tmp/mysql/mysql.sock', // OSX MAMP

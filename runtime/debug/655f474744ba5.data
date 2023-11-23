@@ -1,0 +1,1471 @@
+a:13:{s:6:"config";s:7555:"a:5:{s:10:"phpVersion";s:5:"8.2.4";s:10:"yiiVersion";s:8:"2.0.49.3";s:11:"application";a:8:{s:3:"yii";s:8:"2.0.49.3";s:4:"name";s:14:"My Application";s:7:"version";s:3:"1.0";s:8:"language";s:2:"en";s:14:"sourceLanguage";s:5:"en-US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:5:"local";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:5:"8.2.4";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:30:{s:15:"conquer/helpers";a:3:{s:4:"name";s:15:"conquer/helpers";s:7:"version";s:8:"2.0.13.0";s:5:"alias";a:1:{s:16:"@conquer/helpers";s:34:"C:\cakeshop\vendor/conquer/helpers";}}s:15:"conquer/select2";a:3:{s:4:"name";s:15:"conquer/select2";s:7:"version";s:7:"1.4.4.0";s:5:"alias";a:1:{s:16:"@conquer/select2";s:34:"C:\cakeshop\vendor/conquer/select2";}}s:26:"creocoder/yii2-nested-sets";a:3:{s:4:"name";s:26:"creocoder/yii2-nested-sets";s:7:"version";s:7:"0.9.0.0";s:5:"alias";a:1:{s:21:"@creocoder/nestedsets";s:49:"C:\cakeshop\vendor/creocoder/yii2-nested-sets/src";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:7:"3.0.5.0";s:5:"alias";a:1:{s:12:"@kartik/base";s:48:"C:\cakeshop\vendor/kartik-v/yii2-krajee-base/src";}}s:30:"kartik-v/yii2-widget-typeahead";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-typeahead";s:7:"version";s:7:"1.0.4.0";s:5:"alias";a:1:{s:17:"@kartik/typeahead";s:53:"C:\cakeshop\vendor/kartik-v/yii2-widget-typeahead/src";}}s:30:"kartik-v/yii2-widget-touchspin";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-touchspin";s:7:"version";s:7:"1.2.4.0";s:5:"alias";a:1:{s:17:"@kartik/touchspin";s:53:"C:\cakeshop\vendor/kartik-v/yii2-widget-touchspin/src";}}s:31:"kartik-v/yii2-widget-timepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-timepicker";s:7:"version";s:7:"1.0.5.0";s:5:"alias";a:1:{s:12:"@kartik/time";s:54:"C:\cakeshop\vendor/kartik-v/yii2-widget-timepicker/src";}}s:32:"kartik-v/yii2-widget-switchinput";a:3:{s:4:"name";s:32:"kartik-v/yii2-widget-switchinput";s:7:"version";s:7:"1.3.1.0";s:5:"alias";a:1:{s:19:"@kartik/switchinput";s:51:"C:\cakeshop\vendor/kartik-v/yii2-widget-switchinput";}}s:28:"kartik-v/yii2-widget-spinner";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-spinner";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:15:"@kartik/spinner";s:51:"C:\cakeshop\vendor/kartik-v/yii2-widget-spinner/src";}}s:28:"kartik-v/yii2-widget-sidenav";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-sidenav";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:15:"@kartik/sidenav";s:47:"C:\cakeshop\vendor/kartik-v/yii2-widget-sidenav";}}s:28:"kartik-v/yii2-widget-select2";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-select2";s:7:"version";s:7:"2.2.5.0";s:5:"alias";a:1:{s:15:"@kartik/select2";s:51:"C:\cakeshop\vendor/kartik-v/yii2-widget-select2/src";}}s:27:"kartik-v/yii2-widget-rating";a:3:{s:4:"name";s:27:"kartik-v/yii2-widget-rating";s:7:"version";s:7:"1.0.5.0";s:5:"alias";a:1:{s:14:"@kartik/rating";s:50:"C:\cakeshop\vendor/kartik-v/yii2-widget-rating/src";}}s:31:"kartik-v/yii2-widget-rangeinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-rangeinput";s:7:"version";s:7:"1.0.2.0";s:5:"alias";a:1:{s:13:"@kartik/range";s:54:"C:\cakeshop\vendor/kartik-v/yii2-widget-rangeinput/src";}}s:26:"kartik-v/yii2-widget-growl";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-growl";s:7:"version";s:7:"1.1.2.0";s:5:"alias";a:1:{s:13:"@kartik/growl";s:49:"C:\cakeshop\vendor/kartik-v/yii2-widget-growl/src";}}s:30:"kartik-v/yii2-widget-fileinput";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-fileinput";s:7:"version";s:7:"1.1.1.0";s:5:"alias";a:1:{s:12:"@kartik/file";s:53:"C:\cakeshop\vendor/kartik-v/yii2-widget-fileinput/src";}}s:28:"kartik-v/yii2-widget-depdrop";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-depdrop";s:7:"version";s:7:"1.0.6.0";s:5:"alias";a:1:{s:15:"@kartik/depdrop";s:51:"C:\cakeshop\vendor/kartik-v/yii2-widget-depdrop/src";}}s:35:"kartik-v/yii2-widget-datetimepicker";a:3:{s:4:"name";s:35:"kartik-v/yii2-widget-datetimepicker";s:7:"version";s:7:"1.5.1.0";s:5:"alias";a:1:{s:16:"@kartik/datetime";s:58:"C:\cakeshop\vendor/kartik-v/yii2-widget-datetimepicker/src";}}s:31:"kartik-v/yii2-widget-datepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-datepicker";s:7:"version";s:7:"1.4.8.0";s:5:"alias";a:1:{s:12:"@kartik/date";s:54:"C:\cakeshop\vendor/kartik-v/yii2-widget-datepicker/src";}}s:31:"kartik-v/yii2-widget-colorinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-colorinput";s:7:"version";s:7:"1.0.6.0";s:5:"alias";a:1:{s:13:"@kartik/color";s:54:"C:\cakeshop\vendor/kartik-v/yii2-widget-colorinput/src";}}s:26:"kartik-v/yii2-widget-alert";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-alert";s:7:"version";s:7:"1.1.5.0";s:5:"alias";a:1:{s:13:"@kartik/alert";s:49:"C:\cakeshop\vendor/kartik-v/yii2-widget-alert/src";}}s:26:"kartik-v/yii2-widget-affix";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-affix";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:13:"@kartik/affix";s:45:"C:\cakeshop\vendor/kartik-v/yii2-widget-affix";}}s:31:"kartik-v/yii2-widget-activeform";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-activeform";s:7:"version";s:7:"1.6.4.0";s:5:"alias";a:1:{s:12:"@kartik/form";s:54:"C:\cakeshop\vendor/kartik-v/yii2-widget-activeform/src";}}s:21:"kartik-v/yii2-widgets";a:3:{s:4:"name";s:21:"kartik-v/yii2-widgets";s:7:"version";s:7:"3.4.1.0";s:5:"alias";a:1:{s:15:"@kartik/widgets";s:44:"C:\cakeshop\vendor/kartik-v/yii2-widgets/src";}}s:18:"yiisoft/yii2-queue";a:3:{s:4:"name";s:18:"yiisoft/yii2-queue";s:7:"version";s:7:"2.3.6.0";s:5:"alias";a:11:{s:10:"@yii/queue";s:41:"C:\cakeshop\vendor/yiisoft/yii2-queue/src";s:13:"@yii/queue/db";s:52:"C:\cakeshop\vendor/yiisoft/yii2-queue/src/drivers/db";s:14:"@yii/queue/sqs";s:53:"C:\cakeshop\vendor/yiisoft/yii2-queue/src/drivers/sqs";s:15:"@yii/queue/amqp";s:54:"C:\cakeshop\vendor/yiisoft/yii2-queue/src/drivers/amqp";s:15:"@yii/queue/file";s:54:"C:\cakeshop\vendor/yiisoft/yii2-queue/src/drivers/file";s:15:"@yii/queue/sync";s:54:"C:\cakeshop\vendor/yiisoft/yii2-queue/src/drivers/sync";s:16:"@yii/queue/redis";s:55:"C:\cakeshop\vendor/yiisoft/yii2-queue/src/drivers/redis";s:16:"@yii/queue/stomp";s:55:"C:\cakeshop\vendor/yiisoft/yii2-queue/src/drivers/stomp";s:18:"@yii/queue/gearman";s:57:"C:\cakeshop\vendor/yiisoft/yii2-queue/src/drivers/gearman";s:20:"@yii/queue/beanstalk";s:59:"C:\cakeshop\vendor/yiisoft/yii2-queue/src/drivers/beanstalk";s:23:"@yii/queue/amqp_interop";s:62:"C:\cakeshop\vendor/yiisoft/yii2-queue/src/drivers/amqp_interop";}}s:20:"yiisoft/yii2-imagine";a:3:{s:4:"name";s:20:"yiisoft/yii2-imagine";s:7:"version";s:7:"2.3.1.0";s:5:"alias";a:1:{s:12:"@yii/imagine";s:43:"C:\cakeshop\vendor/yiisoft/yii2-imagine/src";}}s:14:"sizeg/yii2-jwt";a:3:{s:4:"name";s:14:"sizeg/yii2-jwt";s:7:"version";s:7:"1.2.1.0";s:5:"alias";a:1:{s:10:"@sizeg/jwt";s:33:"C:\cakeshop\vendor/sizeg/yii2-jwt";}}s:27:"powerkernel/yii2-photoswipe";a:3:{s:4:"name";s:27:"powerkernel/yii2-photoswipe";s:7:"version";s:7:"1.1.5.0";s:5:"alias";a:1:{s:23:"@powerkernel/photoswipe";s:46:"C:\cakeshop\vendor/powerkernel/yii2-photoswipe";}}s:23:"yiisoft/yii2-bootstrap4";a:3:{s:4:"name";s:23:"yiisoft/yii2-bootstrap4";s:7:"version";s:8:"2.0.11.0";s:5:"alias";a:1:{s:15:"@yii/bootstrap4";s:46:"C:\cakeshop\vendor/yiisoft/yii2-bootstrap4/src";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:8:"2.1.25.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:41:"C:\cakeshop\vendor/yiisoft/yii2-debug/src";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.2.6.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:39:"C:\cakeshop\vendor/yiisoft/yii2-gii/src";}}}}";s:3:"log";s:32750:"a:1:{s:8:"messages";a:104:{i:0;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1700742983.257276;i:4;a:0:{}i:5;i:2564928;}i:1;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.268562;i:4;a:0:{}i:5;i:4163192;}i:2;a:6:{i:0;s:61:"Opening DB connection: mysql:host=localhost;dbname=cakeoncall";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1700742983.268592;i:4;a:0:{}i:5;i:4163592;}i:7;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1700742983.280625;i:4;a:0:{}i:5;i:4608472;}i:8;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1700742983.284765;i:4;a:0:{}i:5;i:5092536;}i:9;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1700742983.285039;i:4;a:0:{}i:5;i:5117408;}i:10;a:6:{i:0;s:46:"Bootstrap with luya\web\Bootstrap::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1700742983.285558;i:4;a:0:{}i:5;i:5147488;}i:12;a:6:{i:0;s:24:"Loading module: cmsadmin";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1700742983.285783;i:4;a:0:{}i:5;i:5168960;}i:13;a:6:{i:0;s:19:"Loading module: cms";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1700742983.28681;i:4;a:0:{}i:5;i:5277400;}i:14;a:6:{i:0;s:21:"Loading module: admin";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1700742983.287068;i:4;a:0:{}i:5;i:5306584;}i:15;a:6:{i:0;s:20:"Loading module: cart";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1700742983.287499;i:4;a:0:{}i:5;i:5387496;}i:16;a:6:{i:0;s:23:"Loading module: catalog";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1700742983.287634;i:4;a:0:{}i:5;i:5399776;}i:17;a:6:{i:0;s:28:"Loading module: catalogadmin";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1700742983.287796;i:4;a:0:{}i:5;i:5420120;}i:18;a:6:{i:0;s:23:"Loading module: gallery";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1700742983.287956;i:4;a:0:{}i:5;i:5441344;}i:19;a:6:{i:0;s:28:"Loading module: galleryadmin";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1700742983.288116;i:4;a:0:{}i:5;i:5455152;}i:20;a:6:{i:0;s:27:"Loading module: contactform";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1700742983.288294;i:4;a:0:{}i:5;i:5471576;}i:21;a:6:{i:0;s:26:"Register component website";i:1;i:8;i:2;s:37:"luya\base\BaseBootstrap::startModules";i:3;d:1700742983.288852;i:4;a:0:{}i:5;i:5613480;}i:22;a:6:{i:0;s:32:"Register component adminLanguage";i:1;i:8;i:2;s:37:"luya\base\BaseBootstrap::startModules";i:3;d:1700742983.292857;i:4;a:0:{}i:5;i:5995920;}i:23;a:6:{i:0;s:28:"Register component adminuser";i:1;i:8;i:2;s:37:"luya\base\BaseBootstrap::startModules";i:3;d:1700742983.29286;i:4;a:0:{}i:5;i:5996192;}i:24;a:6:{i:0;s:28:"Register component adminmenu";i:1;i:8;i:2;s:37:"luya\base\BaseBootstrap::startModules";i:3;d:1700742983.292862;i:4;a:0:{}i:5;i:5996464;}i:25;a:6:{i:0;s:23:"Register component auth";i:1;i:8;i:2;s:37:"luya\base\BaseBootstrap::startModules";i:3;d:1700742983.292863;i:4;a:0:{}i:5;i:5996728;}i:26;a:6:{i:0;s:29:"Register component adminqueue";i:1;i:8;i:2;s:37:"luya\base\BaseBootstrap::startModules";i:3;d:1700742983.292865;i:4;a:0:{}i:5;i:5997000;}i:27;a:6:{i:0;s:36:"End of the LUYA bootstraping process";i:1;i:8;i:2;s:34:"luya\base\BaseBootstrap::bootstrap";i:3;d:1700742983.294621;i:4;a:0:{}i:5;i:7161680;}i:29;a:6:{i:0;s:55:"Bootstrap with luya\cms\frontend\Bootstrap::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1700742983.294857;i:4;a:0:{}i:5;i:7168416;}i:30;a:6:{i:0;s:48:"Bootstrap with luya\admin\Bootstrap::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1700742983.29524;i:4;a:0:{}i:5;i:7256088;}i:31;a:6:{i:0;s:27:"initialize LUYA Application";i:1;i:8;i:2;s:34:"luya\traits\ApplicationTrait::init";i:3;d:1700742983.295246;i:4;a:0:{}i:5;i:7256600;}i:32;a:6:{i:0;s:75:"Cacheable trait key 'admin,bootstrap,queue' successfully loaded from cache.";i:1;i:8;i:2;s:39:"luya\traits\CacheableTrait::getHasCache";i:3;d:1700742983.296405;i:4;a:0:{}i:5;i:7383872;}i:48;a:6:{i:0;s:50:"Route requested: 'admin/api-admin-timestamp/index'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1700742983.297036;i:4;a:0:{}i:5;i:7393120;}i:49;a:6:{i:0;s:75:"Cacheable trait key 'adminLanguageCacheKey' successfully loaded from cache.";i:1;i:8;i:2;s:39:"luya\traits\CacheableTrait::getHasCache";i:3;d:1700742983.29985;i:4;a:0:{}i:5;i:7577088;}i:50;a:6:{i:0;s:45:"Route to run: admin/api-admin-timestamp/index";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1700742983.300958;i:4;a:0:{}i:5;i:7760104;}i:51;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `admin_user`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.308299;i:4;a:0:{}i:5;i:8553032;}i:54;a:6:{i:0;s:776:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_user' AND `kcu`.`TABLE_NAME` = 'admin_user'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.317155;i:4;a:0:{}i:5;i:8591016;}i:57;a:6:{i:0;s:184:"SELECT * FROM `admin_user` WHERE (`admin_user`.`is_deleted`=FALSE) AND (`auth_token`='e5dc7eee80f08dd9e9169dd127f970631006ad72f0f5edfc9f5db8878e7419eb9mWc6B1x90NlbDqGtLPewg6SXZY8Z8Lb')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.321798;i:4;a:0:{}i:5;i:8937504;}i:60;a:6:{i:0;s:67:"UPDATE `admin_user` SET `api_last_activity`=1700742983 WHERE `id`=1";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1700742983.331821;i:4;a:0:{}i:5;i:10291512;}i:63;a:6:{i:0;s:49:"User '1' logged in from ::1. Session not enabled.";i:1;i:4;i:2;s:19:"yii\web\User::login";i:3;d:1700742983.334587;i:4;a:0:{}i:5;i:10412032;}i:64;a:6:{i:0;s:55:"DELETE FROM `admin_user_login_lockout` WHERE `ip`='::1'";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1700742983.335475;i:4;a:0:{}i:5;i:10492824;}i:67;a:6:{i:0;s:54:"SELECT * FROM `admin_auth` WHERE NOT (`route` IS NULL)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.336179;i:4;a:0:{}i:5;i:10522776;}i:70;a:6:{i:0;s:66:"Running action: luya\admin\apis\TimestampController::actionIndex()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1700742983.336456;i:4;a:0:{}i:5;i:10526800;}i:71;a:6:{i:0;s:68:"DELETE FROM `admin_user_online` WHERE `last_timestamp` <= 1700741183";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1700742983.337056;i:4;a:0:{}i:5;i:10569088;}i:74;a:6:{i:0;s:42:"SHOW FULL COLUMNS FROM `admin_user_online`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.337311;i:4;a:0:{}i:5;i:10570136;}i:77;a:6:{i:0;s:790:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_user_online' AND `kcu`.`TABLE_NAME` = 'admin_user_online'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.345161;i:4;a:0:{}i:5;i:10576624;}i:80;a:6:{i:0;s:51:"SELECT * FROM `admin_user_online` WHERE `user_id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.345776;i:4;a:0:{}i:5;i:10579768;}i:83;a:6:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1700742983.348212;i:4;a:0:{}i:5;i:10752728;}i:84;a:6:{i:0;s:87:"SELECT * FROM `admin_user_auth_notification` WHERE (`user_id`=1) AND (`is_muted`=FALSE)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.348727;i:4;a:0:{}i:5;i:10779792;}i:87;a:6:{i:0;s:53:"SHOW FULL COLUMNS FROM `admin_user_auth_notification`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.349521;i:4;a:0:{}i:5;i:10820664;}i:90;a:6:{i:0;s:812:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_user_auth_notification' AND `kcu`.`TABLE_NAME` = 'admin_user_auth_notification'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.357893;i:4;a:0:{}i:5;i:10827128;}i:93;a:6:{i:0;s:56:"SELECT `id` FROM `admin_user` ORDER BY `id` DESC LIMIT 1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.359435;i:4;a:0:{}i:5;i:10999728;}i:96;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `admin_group`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.360172;i:4;a:0:{}i:5;i:11032184;}i:99;a:6:{i:0;s:778:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_group' AND `kcu`.`TABLE_NAME` = 'admin_group'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.368067;i:4;a:0:{}i:5;i:11037064;}i:102;a:6:{i:0;s:57:"SELECT `id` FROM `admin_group` ORDER BY `id` DESC LIMIT 1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.368531;i:4;a:0:{}i:5;i:11039064;}i:105;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `catalog_group`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.369666;i:4;a:0:{}i:5;i:11100472;}i:108;a:6:{i:0;s:782:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_group' AND `kcu`.`TABLE_NAME` = 'catalog_group'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.377328;i:4;a:0:{}i:5;i:11109192;}i:111;a:6:{i:0;s:59:"SELECT `id` FROM `catalog_group` ORDER BY `id` DESC LIMIT 1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.377808;i:4;a:0:{}i:5;i:11111152;}i:114;a:6:{i:0;s:40:"SHOW FULL COLUMNS FROM `catalog_product`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.378568;i:4;a:0:{}i:5;i:11157376;}i:117;a:6:{i:0;s:786:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_product' AND `kcu`.`TABLE_NAME` = 'catalog_product'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.38644;i:4;a:0:{}i:5;i:11166488;}i:120;a:6:{i:0;s:61:"SELECT `id` FROM `catalog_product` ORDER BY `id` DESC LIMIT 1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.386902;i:4;a:0:{}i:5;i:11168456;}i:123;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `catalog_unit`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.38743;i:4;a:0:{}i:5;i:11190728;}i:126;a:6:{i:0;s:780:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_unit' AND `kcu`.`TABLE_NAME` = 'catalog_unit'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.394783;i:4;a:0:{}i:5;i:11196000;}i:129;a:6:{i:0;s:58:"SELECT `id` FROM `catalog_unit` ORDER BY `id` DESC LIMIT 1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.395312;i:4;a:0:{}i:5;i:11203632;}i:132;a:6:{i:0;s:40:"SHOW FULL COLUMNS FROM `catalog_article`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.396312;i:4;a:0:{}i:5;i:11265784;}i:135;a:6:{i:0;s:786:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_article' AND `kcu`.`TABLE_NAME` = 'catalog_article'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.405785;i:4;a:0:{}i:5;i:11275680;}i:138;a:6:{i:0;s:61:"SELECT `id` FROM `catalog_article` ORDER BY `id` DESC LIMIT 1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.406242;i:4;a:0:{}i:5;i:11278288;}i:141;a:6:{i:0;s:46:"SHOW FULL COLUMNS FROM `catalog_article_price`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.407436;i:4;a:0:{}i:5;i:11311808;}i:144;a:6:{i:0;s:798:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_article_price' AND `kcu`.`TABLE_NAME` = 'catalog_article_price'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.417126;i:4;a:0:{}i:5;i:11317456;}i:147;a:6:{i:0;s:193:"SELECT `article_id`, `value_id`, `currency_id`, `qty`, `unit_id` FROM `catalog_article_price` ORDER BY `article_id` DESC, `value_id` DESC, `currency_id` DESC, `qty` DESC, `unit_id` DESC LIMIT 1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.417903;i:4;a:0:{}i:5;i:11321232;}i:150;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `cms_layout`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.4186;i:4;a:0:{}i:5;i:11343928;}i:153;a:6:{i:0;s:776:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_layout' AND `kcu`.`TABLE_NAME` = 'cms_layout'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.42704;i:4;a:0:{}i:5;i:11348816;}i:156;a:6:{i:0;s:56:"SELECT `id` FROM `cms_layout` ORDER BY `id` DESC LIMIT 1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.427535;i:4;a:0:{}i:5;i:11350776;}i:159;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `cms_theme`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.428279;i:4;a:0:{}i:5;i:11378832;}i:162;a:6:{i:0;s:774:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_theme' AND `kcu`.`TABLE_NAME` = 'cms_theme'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.43662;i:4;a:0:{}i:5;i:11383728;}i:165;a:6:{i:0;s:55:"SELECT `id` FROM `cms_theme` ORDER BY `id` DESC LIMIT 1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.437097;i:4;a:0:{}i:5;i:11385672;}i:168;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `cms_block`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.438009;i:4;a:0:{}i:5;i:11490848;}i:171;a:6:{i:0;s:774:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_block' AND `kcu`.`TABLE_NAME` = 'cms_block'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.448289;i:4;a:0:{}i:5;i:11495736;}i:174;a:6:{i:0;s:55:"SELECT `id` FROM `cms_block` ORDER BY `id` DESC LIMIT 1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.44877;i:4;a:0:{}i:5;i:11497680;}i:177;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `cms_website`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.449583;i:4;a:0:{}i:5;i:11540352;}i:180;a:6:{i:0;s:778:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_website' AND `kcu`.`TABLE_NAME` = 'cms_website'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.459165;i:4;a:0:{}i:5;i:11548736;}i:183;a:6:{i:0;s:57:"SELECT `id` FROM `cms_website` ORDER BY `id` DESC LIMIT 1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.459628;i:4;a:0:{}i:5;i:11550696;}i:186;a:6:{i:0;s:40:"SHOW FULL COLUMNS FROM `cms_block_group`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.460304;i:4;a:0:{}i:5;i:11576264;}i:189;a:6:{i:0;s:786:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_block_group' AND `kcu`.`TABLE_NAME` = 'cms_block_group'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.468167;i:4;a:0:{}i:5;i:11581952;}i:192;a:6:{i:0;s:61:"SELECT `id` FROM `cms_block_group` ORDER BY `id` DESC LIMIT 1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.468593;i:4;a:0:{}i:5;i:11583920;}i:195;a:6:{i:0;s:42:"SHOW FULL COLUMNS FROM `cms_nav_container`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.469128;i:4;a:0:{}i:5;i:11609776;}i:198;a:6:{i:0;s:790:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_nav_container' AND `kcu`.`TABLE_NAME` = 'cms_nav_container'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.47924;i:4;a:0:{}i:5;i:11615056;}i:201;a:6:{i:0;s:63:"SELECT `id` FROM `cms_nav_container` ORDER BY `id` DESC LIMIT 1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.479737;i:4;a:0:{}i:5;i:11617024;}i:204;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `gallery_cat`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.480349;i:4;a:0:{}i:5;i:11642248;}i:207;a:6:{i:0;s:778:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'gallery_cat' AND `kcu`.`TABLE_NAME` = 'gallery_cat'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.489158;i:4;a:0:{}i:5;i:11647120;}i:210;a:6:{i:0;s:57:"SELECT `id` FROM `gallery_cat` ORDER BY `id` DESC LIMIT 1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.489737;i:4;a:0:{}i:5;i:11649080;}i:213;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `gallery_album`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.490602;i:4;a:0:{}i:5;i:11685616;}i:216;a:6:{i:0;s:782:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'gallery_album' AND `kcu`.`TABLE_NAME` = 'gallery_album'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.49925;i:4;a:0:{}i:5;i:11692784;}i:219;a:6:{i:0;s:59:"SELECT `id` FROM `gallery_album` ORDER BY `id` DESC LIMIT 1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.499711;i:4;a:0:{}i:5;i:11694744;}i:222;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `admin_config`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.500484;i:4;a:0:{}i:5;i:11729376;}i:225;a:6:{i:0;s:780:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_config' AND `kcu`.`TABLE_NAME` = 'admin_config'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.511581;i:4;a:0:{}i:5;i:11734256;}i:228;a:6:{i:0;s:58:"SELECT `id` FROM `admin_config` ORDER BY `id` DESC LIMIT 1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.512035;i:4;a:0:{}i:5;i:11736256;}i:231;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `admin_property`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.51275;i:4;a:0:{}i:5;i:11766720;}i:234;a:6:{i:0;s:784:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_property' AND `kcu`.`TABLE_NAME` = 'admin_property'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.523007;i:4;a:0:{}i:5;i:11773200;}i:237;a:6:{i:0;s:60:"SELECT `id` FROM `admin_property` ORDER BY `id` DESC LIMIT 1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.523443;i:4;a:0:{}i:5;i:11775208;}i:240;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `admin_tag`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.524077;i:4;a:0:{}i:5;i:11808480;}i:243;a:6:{i:0;s:774:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_tag' AND `kcu`.`TABLE_NAME` = 'admin_tag'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.531483;i:4;a:0:{}i:5;i:11812968;}i:246;a:6:{i:0;s:55:"SELECT `id` FROM `admin_tag` ORDER BY `id` DESC LIMIT 1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.531893;i:4;a:0:{}i:5;i:11814968;}i:249;a:6:{i:0;s:40:"SHOW FULL COLUMNS FROM `catalog_related`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.532342;i:4;a:0:{}i:5;i:11836104;}i:252;a:6:{i:0;s:786:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_related' AND `kcu`.`TABLE_NAME` = 'catalog_related'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.539504;i:4;a:0:{}i:5;i:11840592;}i:255;a:6:{i:0;s:61:"SELECT `id` FROM `catalog_related` ORDER BY `id` DESC LIMIT 1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.539937;i:4;a:0:{}i:5;i:11843840;}i:258;a:6:{i:0;s:33:"SELECT * FROM `admin_user_online`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.540203;i:4;a:0:{}i:5;i:11847848;}i:261;a:6:{i:0;s:79:"SELECT * FROM `admin_user` WHERE (`admin_user`.`is_deleted`=FALSE) AND (`id`=1)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.541117;i:4;a:0:{}i:5;i:11886432;}i:264;a:6:{i:0;s:273:"SELECT `user_id`, `lock_pk`, `lock_table`, `last_timestamp`, `firstname`, `lastname`, `admin_user`.`id` FROM `admin_user_online` LEFT JOIN `admin_user` ON `admin_user_online`.`user_id` = `admin_user`.`id` WHERE (`admin_user`.`id` != 1) AND (`admin_user`.`is_deleted`=FALSE)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.542684;i:4;a:0:{}i:5;i:11999064;}}}";s:9:"profiling";s:56255:"a:3:{s:6:"memory";i:12152208;s:4:"time";d:0.29980015754699707;s:8:"messages";a:148:{i:3;a:6:{i:0;s:61:"Opening DB connection: mysql:host=localhost;dbname=cakeoncall";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1700742983.268595;i:4;a:0:{}i:5;i:4163808;}i:4;a:6:{i:0;s:61:"Opening DB connection: mysql:host=localhost;dbname=cakeoncall";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1700742983.270252;i:4;a:0:{}i:5;i:4332896;}i:5;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.270258;i:4;a:0:{}i:5;i:4333592;}i:6;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.277897;i:4;a:0:{}i:5;i:4391712;}i:11;a:6:{i:0;s:31:"LUYA Boostrap process profiling";i:1;i:80;i:2;s:34:"luya\base\BaseBootstrap::bootstrap";i:3;d:1700742983.28556;i:4;a:0:{}i:5;i:5147704;}i:28;a:6:{i:0;s:31:"LUYA Boostrap process profiling";i:1;i:96;i:2;s:11:"application";i:3;d:1700742983.294623;i:4;a:0:{}i:5;i:7161896;}i:52;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `admin_user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.30831;i:4;a:0:{}i:5;i:8553728;}i:53;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `admin_user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.316276;i:4;a:0:{}i:5;i:8580240;}i:55;a:6:{i:0;s:776:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_user' AND `kcu`.`TABLE_NAME` = 'admin_user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.31717;i:4;a:0:{}i:5;i:8591840;}i:56;a:6:{i:0;s:776:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_user' AND `kcu`.`TABLE_NAME` = 'admin_user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.317509;i:4;a:0:{}i:5;i:8593104;}i:58;a:6:{i:0;s:184:"SELECT * FROM `admin_user` WHERE (`admin_user`.`is_deleted`=FALSE) AND (`auth_token`='e5dc7eee80f08dd9e9169dd127f970631006ad72f0f5edfc9f5db8878e7419eb9mWc6B1x90NlbDqGtLPewg6SXZY8Z8Lb')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.321814;i:4;a:0:{}i:5;i:8938312;}i:59;a:6:{i:0;s:184:"SELECT * FROM `admin_user` WHERE (`admin_user`.`is_deleted`=FALSE) AND (`auth_token`='e5dc7eee80f08dd9e9169dd127f970631006ad72f0f5edfc9f5db8878e7419eb9mWc6B1x90NlbDqGtLPewg6SXZY8Z8Lb')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.322216;i:4;a:0:{}i:5;i:8942088;}i:61;a:6:{i:0;s:67:"UPDATE `admin_user` SET `api_last_activity`=1700742983 WHERE `id`=1";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1700742983.331833;i:4;a:0:{}i:5;i:10292320;}i:62;a:6:{i:0;s:67:"UPDATE `admin_user` SET `api_last_activity`=1700742983 WHERE `id`=1";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1700742983.333209;i:4;a:0:{}i:5;i:10292712;}i:65;a:6:{i:0;s:55:"DELETE FROM `admin_user_login_lockout` WHERE `ip`='::1'";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1700742983.335481;i:4;a:0:{}i:5;i:10495016;}i:66;a:6:{i:0;s:55:"DELETE FROM `admin_user_login_lockout` WHERE `ip`='::1'";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1700742983.335632;i:4;a:0:{}i:5;i:10495280;}i:68;a:6:{i:0;s:54:"SELECT * FROM `admin_auth` WHERE NOT (`route` IS NULL)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.336186;i:4;a:0:{}i:5;i:10523472;}i:69;a:6:{i:0;s:54:"SELECT * FROM `admin_auth` WHERE NOT (`route` IS NULL)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.33643;i:4;a:0:{}i:5;i:10528232;}i:72;a:6:{i:0;s:68:"DELETE FROM `admin_user_online` WHERE `last_timestamp` <= 1700741183";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1700742983.337061;i:4;a:0:{}i:5;i:10570000;}i:73;a:6:{i:0;s:68:"DELETE FROM `admin_user_online` WHERE `last_timestamp` <= 1700741183";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1700742983.337208;i:4;a:0:{}i:5;i:10570336;}i:75;a:6:{i:0;s:42:"SHOW FULL COLUMNS FROM `admin_user_online`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.337318;i:4;a:0:{}i:5;i:10570832;}i:76;a:6:{i:0;s:42:"SHOW FULL COLUMNS FROM `admin_user_online`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.344945;i:4;a:0:{}i:5;i:10578712;}i:78;a:6:{i:0;s:790:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_user_online' AND `kcu`.`TABLE_NAME` = 'admin_user_online'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.345175;i:4;a:0:{}i:5;i:10577448;}i:79;a:6:{i:0;s:790:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_user_online' AND `kcu`.`TABLE_NAME` = 'admin_user_online'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.345614;i:4;a:0:{}i:5;i:10578712;}i:81;a:6:{i:0;s:51:"SELECT * FROM `admin_user_online` WHERE `user_id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.345787;i:4;a:0:{}i:5;i:10580680;}i:82;a:6:{i:0;s:51:"SELECT * FROM `admin_user_online` WHERE `user_id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.346074;i:4;a:0:{}i:5;i:10581760;}i:85;a:6:{i:0;s:87:"SELECT * FROM `admin_user_auth_notification` WHERE (`user_id`=1) AND (`is_muted`=FALSE)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.348745;i:4;a:0:{}i:5;i:10780600;}i:86;a:6:{i:0;s:87:"SELECT * FROM `admin_user_auth_notification` WHERE (`user_id`=1) AND (`is_muted`=FALSE)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.349143;i:4;a:0:{}i:5;i:10799272;}i:88;a:6:{i:0;s:53:"SHOW FULL COLUMNS FROM `admin_user_auth_notification`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.349528;i:4;a:0:{}i:5;i:10821360;}i:89;a:6:{i:0;s:53:"SHOW FULL COLUMNS FROM `admin_user_auth_notification`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.35773;i:4;a:0:{}i:5;i:10829104;}i:91;a:6:{i:0;s:812:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_user_auth_notification' AND `kcu`.`TABLE_NAME` = 'admin_user_auth_notification'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.357904;i:4;a:0:{}i:5;i:10827952;}i:92;a:6:{i:0;s:812:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_user_auth_notification' AND `kcu`.`TABLE_NAME` = 'admin_user_auth_notification'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.358197;i:4;a:0:{}i:5;i:10829216;}i:94;a:6:{i:0;s:56:"SELECT `id` FROM `admin_user` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.359442;i:4;a:0:{}i:5;i:11000424;}i:95;a:6:{i:0;s:56:"SELECT `id` FROM `admin_user` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.35957;i:4;a:0:{}i:5;i:11000880;}i:97;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `admin_group`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.360179;i:4;a:0:{}i:5;i:11032880;}i:98;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `admin_group`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.367903;i:4;a:0:{}i:5;i:11037120;}i:100;a:6:{i:0;s:778:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_group' AND `kcu`.`TABLE_NAME` = 'admin_group'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.368082;i:4;a:0:{}i:5;i:11037888;}i:101;a:6:{i:0;s:778:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_group' AND `kcu`.`TABLE_NAME` = 'admin_group'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.368418;i:4;a:0:{}i:5;i:11039152;}i:103;a:6:{i:0;s:57:"SELECT `id` FROM `admin_group` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.368538;i:4;a:0:{}i:5;i:11039760;}i:104;a:6:{i:0;s:57:"SELECT `id` FROM `admin_group` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.368684;i:4;a:0:{}i:5;i:11040216;}i:106;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `catalog_group`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.369674;i:4;a:0:{}i:5;i:11101168;}i:107;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `catalog_group`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.376988;i:4;a:0:{}i:5;i:11113472;}i:109;a:6:{i:0;s:782:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_group' AND `kcu`.`TABLE_NAME` = 'catalog_group'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.377348;i:4;a:0:{}i:5;i:11110016;}i:110;a:6:{i:0;s:782:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_group' AND `kcu`.`TABLE_NAME` = 'catalog_group'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.37769;i:4;a:0:{}i:5;i:11111280;}i:112;a:6:{i:0;s:59:"SELECT `id` FROM `catalog_group` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.377818;i:4;a:0:{}i:5;i:11111848;}i:113;a:6:{i:0;s:59:"SELECT `id` FROM `catalog_group` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.377955;i:4;a:0:{}i:5;i:11112304;}i:115;a:6:{i:0;s:40:"SHOW FULL COLUMNS FROM `catalog_product`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.378577;i:4;a:0:{}i:5;i:11158072;}i:116;a:6:{i:0;s:40:"SHOW FULL COLUMNS FROM `catalog_product`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.386247;i:4;a:0:{}i:5;i:11171248;}i:118;a:6:{i:0;s:786:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_product' AND `kcu`.`TABLE_NAME` = 'catalog_product'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.386452;i:4;a:0:{}i:5;i:11167312;}i:119;a:6:{i:0;s:786:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_product' AND `kcu`.`TABLE_NAME` = 'catalog_product'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.386785;i:4;a:0:{}i:5;i:11168576;}i:121;a:6:{i:0;s:61:"SELECT `id` FROM `catalog_product` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.386911;i:4;a:0:{}i:5;i:11169152;}i:122;a:6:{i:0;s:61:"SELECT `id` FROM `catalog_product` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.387069;i:4;a:0:{}i:5;i:11169608;}i:124;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `catalog_unit`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.387439;i:4;a:0:{}i:5;i:11191424;}i:125;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `catalog_unit`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.394565;i:4;a:0:{}i:5;i:11196520;}i:127;a:6:{i:0;s:780:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_unit' AND `kcu`.`TABLE_NAME` = 'catalog_unit'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.394801;i:4;a:0:{}i:5;i:11196824;}i:128;a:6:{i:0;s:780:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_unit' AND `kcu`.`TABLE_NAME` = 'catalog_unit'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.395166;i:4;a:0:{}i:5;i:11198088;}i:130;a:6:{i:0;s:58:"SELECT `id` FROM `catalog_unit` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.395324;i:4;a:0:{}i:5;i:11204328;}i:131;a:6:{i:0;s:58:"SELECT `id` FROM `catalog_unit` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.395492;i:4;a:0:{}i:5;i:11204784;}i:133;a:6:{i:0;s:40:"SHOW FULL COLUMNS FROM `catalog_article`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.396321;i:4;a:0:{}i:5;i:11266480;}i:134;a:6:{i:0;s:40:"SHOW FULL COLUMNS FROM `catalog_article`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.405577;i:4;a:0:{}i:5;i:11281192;}i:136;a:6:{i:0;s:786:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_article' AND `kcu`.`TABLE_NAME` = 'catalog_article'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.405799;i:4;a:0:{}i:5;i:11276504;}i:137;a:6:{i:0;s:786:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_article' AND `kcu`.`TABLE_NAME` = 'catalog_article'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.406134;i:4;a:0:{}i:5;i:11277768;}i:139;a:6:{i:0;s:61:"SELECT `id` FROM `catalog_article` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.40625;i:4;a:0:{}i:5;i:11278984;}i:140;a:6:{i:0;s:61:"SELECT `id` FROM `catalog_article` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.406408;i:4;a:0:{}i:5;i:11279440;}i:142;a:6:{i:0;s:46:"SHOW FULL COLUMNS FROM `catalog_article_price`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.407446;i:4;a:0:{}i:5;i:11312504;}i:143;a:6:{i:0;s:46:"SHOW FULL COLUMNS FROM `catalog_article_price`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.416846;i:4;a:0:{}i:5;i:11318432;}i:145;a:6:{i:0;s:798:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_article_price' AND `kcu`.`TABLE_NAME` = 'catalog_article_price'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.417146;i:4;a:0:{}i:5;i:11318280;}i:146;a:6:{i:0;s:798:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_article_price' AND `kcu`.`TABLE_NAME` = 'catalog_article_price'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.417689;i:4;a:0:{}i:5;i:11320816;}i:148;a:6:{i:0;s:193:"SELECT `article_id`, `value_id`, `currency_id`, `qty`, `unit_id` FROM `catalog_article_price` ORDER BY `article_id` DESC, `value_id` DESC, `currency_id` DESC, `qty` DESC, `unit_id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.417915;i:4;a:0:{}i:5;i:11321928;}i:149;a:6:{i:0;s:193:"SELECT `article_id`, `value_id`, `currency_id`, `qty`, `unit_id` FROM `catalog_article_price` ORDER BY `article_id` DESC, `value_id` DESC, `currency_id` DESC, `qty` DESC, `unit_id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.418104;i:4;a:0:{}i:5;i:11322488;}i:151;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `cms_layout`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.418612;i:4;a:0:{}i:5;i:11344624;}i:152;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `cms_layout`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.426894;i:4;a:0:{}i:5;i:11348920;}i:154;a:6:{i:0;s:776:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_layout' AND `kcu`.`TABLE_NAME` = 'cms_layout'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.427053;i:4;a:0:{}i:5;i:11349640;}i:155;a:6:{i:0;s:776:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_layout' AND `kcu`.`TABLE_NAME` = 'cms_layout'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.427428;i:4;a:0:{}i:5;i:11350904;}i:157;a:6:{i:0;s:56:"SELECT `id` FROM `cms_layout` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.427544;i:4;a:0:{}i:5;i:11351472;}i:158;a:6:{i:0;s:56:"SELECT `id` FROM `cms_layout` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.427714;i:4;a:0:{}i:5;i:11351928;}i:160;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `cms_theme`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.42829;i:4;a:0:{}i:5;i:11379528;}i:161;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `cms_theme`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.436434;i:4;a:0:{}i:5;i:11383816;}i:163;a:6:{i:0;s:774:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_theme' AND `kcu`.`TABLE_NAME` = 'cms_theme'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.436637;i:4;a:0:{}i:5;i:11384552;}i:164;a:6:{i:0;s:774:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_theme' AND `kcu`.`TABLE_NAME` = 'cms_theme'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.436969;i:4;a:0:{}i:5;i:11385816;}i:166;a:6:{i:0;s:55:"SELECT `id` FROM `cms_theme` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.437108;i:4;a:0:{}i:5;i:11386368;}i:167;a:6:{i:0;s:55:"SELECT `id` FROM `cms_theme` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.437265;i:4;a:0:{}i:5;i:11386824;}i:169;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `cms_block`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.43802;i:4;a:0:{}i:5;i:11491544;}i:170;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `cms_block`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.448137;i:4;a:0:{}i:5;i:11495808;}i:172;a:6:{i:0;s:774:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_block' AND `kcu`.`TABLE_NAME` = 'cms_block'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.448302;i:4;a:0:{}i:5;i:11496560;}i:173;a:6:{i:0;s:774:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_block' AND `kcu`.`TABLE_NAME` = 'cms_block'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.448649;i:4;a:0:{}i:5;i:11497824;}i:175;a:6:{i:0;s:55:"SELECT `id` FROM `cms_block` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.44878;i:4;a:0:{}i:5;i:11498376;}i:176;a:6:{i:0;s:55:"SELECT `id` FROM `cms_block` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.448942;i:4;a:0:{}i:5;i:11498832;}i:178;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `cms_website`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.449594;i:4;a:0:{}i:5;i:11541048;}i:179;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `cms_website`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.458932;i:4;a:0:{}i:5;i:11552600;}i:181;a:6:{i:0;s:778:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_website' AND `kcu`.`TABLE_NAME` = 'cms_website'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.459182;i:4;a:0:{}i:5;i:11549560;}i:182;a:6:{i:0;s:778:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_website' AND `kcu`.`TABLE_NAME` = 'cms_website'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.459515;i:4;a:0:{}i:5;i:11550824;}i:184;a:6:{i:0;s:57:"SELECT `id` FROM `cms_website` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.459638;i:4;a:0:{}i:5;i:11551392;}i:185;a:6:{i:0;s:57:"SELECT `id` FROM `cms_website` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.459777;i:4;a:0:{}i:5;i:11551848;}i:187;a:6:{i:0;s:40:"SHOW FULL COLUMNS FROM `cms_block_group`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.460316;i:4;a:0:{}i:5;i:11576960;}i:188;a:6:{i:0;s:40:"SHOW FULL COLUMNS FROM `cms_block_group`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.468002;i:4;a:0:{}i:5;i:11582984;}i:190;a:6:{i:0;s:786:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_block_group' AND `kcu`.`TABLE_NAME` = 'cms_block_group'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.468179;i:4;a:0:{}i:5;i:11582776;}i:191;a:6:{i:0;s:786:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_block_group' AND `kcu`.`TABLE_NAME` = 'cms_block_group'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.468493;i:4;a:0:{}i:5;i:11584040;}i:193;a:6:{i:0;s:61:"SELECT `id` FROM `cms_block_group` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.468601;i:4;a:0:{}i:5;i:11584616;}i:194;a:6:{i:0;s:61:"SELECT `id` FROM `cms_block_group` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.46874;i:4;a:0:{}i:5;i:11585072;}i:196;a:6:{i:0;s:42:"SHOW FULL COLUMNS FROM `cms_nav_container`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.469137;i:4;a:0:{}i:5;i:11610472;}i:197;a:6:{i:0;s:42:"SHOW FULL COLUMNS FROM `cms_nav_container`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.479084;i:4;a:0:{}i:5;i:11615576;}i:199;a:6:{i:0;s:790:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_nav_container' AND `kcu`.`TABLE_NAME` = 'cms_nav_container'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.479253;i:4;a:0:{}i:5;i:11615880;}i:200;a:6:{i:0;s:790:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_nav_container' AND `kcu`.`TABLE_NAME` = 'cms_nav_container'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.479627;i:4;a:0:{}i:5;i:11617144;}i:202;a:6:{i:0;s:63:"SELECT `id` FROM `cms_nav_container` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.479745;i:4;a:0:{}i:5;i:11617720;}i:203;a:6:{i:0;s:63:"SELECT `id` FROM `cms_nav_container` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.479898;i:4;a:0:{}i:5;i:11618176;}i:205;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `gallery_cat`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.480359;i:4;a:0:{}i:5;i:11642944;}i:206;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `gallery_cat`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.489018;i:4;a:0:{}i:5;i:11647176;}i:208;a:6:{i:0;s:778:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'gallery_cat' AND `kcu`.`TABLE_NAME` = 'gallery_cat'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.489176;i:4;a:0:{}i:5;i:11647944;}i:209;a:6:{i:0;s:778:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'gallery_cat' AND `kcu`.`TABLE_NAME` = 'gallery_cat'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.489617;i:4;a:0:{}i:5;i:11649208;}i:211;a:6:{i:0;s:57:"SELECT `id` FROM `gallery_cat` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.489744;i:4;a:0:{}i:5;i:11649776;}i:212;a:6:{i:0;s:57:"SELECT `id` FROM `gallery_cat` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.489911;i:4;a:0:{}i:5;i:11650232;}i:214;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `gallery_album`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.490612;i:4;a:0:{}i:5;i:11686312;}i:215;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `gallery_album`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.499071;i:4;a:0:{}i:5;i:11695000;}i:217;a:6:{i:0;s:782:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'gallery_album' AND `kcu`.`TABLE_NAME` = 'gallery_album'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.499262;i:4;a:0:{}i:5;i:11693608;}i:218;a:6:{i:0;s:782:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'gallery_album' AND `kcu`.`TABLE_NAME` = 'gallery_album'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.499601;i:4;a:0:{}i:5;i:11694872;}i:220;a:6:{i:0;s:59:"SELECT `id` FROM `gallery_album` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.49972;i:4;a:0:{}i:5;i:11695440;}i:221;a:6:{i:0;s:59:"SELECT `id` FROM `gallery_album` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.49986;i:4;a:0:{}i:5;i:11695736;}i:223;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `admin_config`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.500495;i:4;a:0:{}i:5;i:11730072;}i:224;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `admin_config`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.511404;i:4;a:0:{}i:5;i:11734344;}i:226;a:6:{i:0;s:780:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_config' AND `kcu`.`TABLE_NAME` = 'admin_config'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.511597;i:4;a:0:{}i:5;i:11735080;}i:227;a:6:{i:0;s:780:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_config' AND `kcu`.`TABLE_NAME` = 'admin_config'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.511909;i:4;a:0:{}i:5;i:11736344;}i:229;a:6:{i:0;s:58:"SELECT `id` FROM `admin_config` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.512042;i:4;a:0:{}i:5;i:11736952;}i:230;a:6:{i:0;s:58:"SELECT `id` FROM `admin_config` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.51219;i:4;a:0:{}i:5;i:11737408;}i:232;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `admin_property`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.512758;i:4;a:0:{}i:5;i:11767416;}i:233;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `admin_property`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.522809;i:4;a:0:{}i:5;i:11775224;}i:235;a:6:{i:0;s:784:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_property' AND `kcu`.`TABLE_NAME` = 'admin_property'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.523019;i:4;a:0:{}i:5;i:11774024;}i:236;a:6:{i:0;s:784:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_property' AND `kcu`.`TABLE_NAME` = 'admin_property'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.523333;i:4;a:0:{}i:5;i:11775288;}i:238;a:6:{i:0;s:60:"SELECT `id` FROM `admin_property` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.523452;i:4;a:0:{}i:5;i:11775904;}i:239;a:6:{i:0;s:60:"SELECT `id` FROM `admin_property` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.5236;i:4;a:0:{}i:5;i:11776360;}i:241;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `admin_tag`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.524085;i:4;a:0:{}i:5;i:11809176;}i:242;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `admin_tag`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.531342;i:4;a:0:{}i:5;i:11812592;}i:244;a:6:{i:0;s:774:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_tag' AND `kcu`.`TABLE_NAME` = 'admin_tag'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.531495;i:4;a:0:{}i:5;i:11813792;}i:245;a:6:{i:0;s:774:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_tag' AND `kcu`.`TABLE_NAME` = 'admin_tag'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.531783;i:4;a:0:{}i:5;i:11815056;}i:247;a:6:{i:0;s:55:"SELECT `id` FROM `admin_tag` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.531901;i:4;a:0:{}i:5;i:11815664;}i:248;a:6:{i:0;s:55:"SELECT `id` FROM `admin_tag` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.532038;i:4;a:0:{}i:5;i:11815960;}i:250;a:6:{i:0;s:40:"SHOW FULL COLUMNS FROM `catalog_related`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.53235;i:4;a:0:{}i:5;i:11836800;}i:251;a:6:{i:0;s:40:"SHOW FULL COLUMNS FROM `catalog_related`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.539327;i:4;a:0:{}i:5;i:11840128;}i:253;a:6:{i:0;s:786:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_related' AND `kcu`.`TABLE_NAME` = 'catalog_related'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.539516;i:4;a:0:{}i:5;i:11841416;}i:254;a:6:{i:0;s:786:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_related' AND `kcu`.`TABLE_NAME` = 'catalog_related'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.539822;i:4;a:0:{}i:5;i:11842680;}i:256;a:6:{i:0;s:61:"SELECT `id` FROM `catalog_related` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.539946;i:4;a:0:{}i:5;i:11844536;}i:257;a:6:{i:0;s:61:"SELECT `id` FROM `catalog_related` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.540095;i:4;a:0:{}i:5;i:11849088;}i:259;a:6:{i:0;s:33:"SELECT * FROM `admin_user_online`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.540212;i:4;a:0:{}i:5;i:11848544;}i:260;a:6:{i:0;s:33:"SELECT * FROM `admin_user_online`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.540361;i:4;a:0:{}i:5;i:11849760;}i:262;a:6:{i:0;s:79:"SELECT * FROM `admin_user` WHERE (`admin_user`.`is_deleted`=FALSE) AND (`id`=1)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.541126;i:4;a:0:{}i:5;i:11887240;}i:263;a:6:{i:0;s:79:"SELECT * FROM `admin_user` WHERE (`admin_user`.`is_deleted`=FALSE) AND (`id`=1)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.541324;i:4;a:0:{}i:5;i:11890520;}i:265;a:6:{i:0;s:273:"SELECT `user_id`, `lock_pk`, `lock_table`, `last_timestamp`, `firstname`, `lastname`, `admin_user`.`id` FROM `admin_user_online` LEFT JOIN `admin_user` ON `admin_user_online`.`user_id` = `admin_user`.`id` WHERE (`admin_user`.`id` != 1) AND (`admin_user`.`is_deleted`=FALSE)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.542691;i:4;a:0:{}i:5;i:11999872;}i:266;a:6:{i:0;s:273:"SELECT `user_id`, `lock_pk`, `lock_table`, `last_timestamp`, `firstname`, `lastname`, `admin_user`.`id` FROM `admin_user_online` LEFT JOIN `admin_user` ON `admin_user_online`.`user_id` = `admin_user`.`id` WHERE (`admin_user`.`id` != 1) AND (`admin_user`.`is_deleted`=FALSE)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.542905;i:4;a:0:{}i:5;i:12000656;}}}";s:2:"db";s:55558:"a:1:{s:8:"messages";a:144:{i:5;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.270258;i:4;a:0:{}i:5;i:4333592;}i:6;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.277897;i:4;a:0:{}i:5;i:4391712;}i:52;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `admin_user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.30831;i:4;a:0:{}i:5;i:8553728;}i:53;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `admin_user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.316276;i:4;a:0:{}i:5;i:8580240;}i:55;a:6:{i:0;s:776:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_user' AND `kcu`.`TABLE_NAME` = 'admin_user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.31717;i:4;a:0:{}i:5;i:8591840;}i:56;a:6:{i:0;s:776:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_user' AND `kcu`.`TABLE_NAME` = 'admin_user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.317509;i:4;a:0:{}i:5;i:8593104;}i:58;a:6:{i:0;s:184:"SELECT * FROM `admin_user` WHERE (`admin_user`.`is_deleted`=FALSE) AND (`auth_token`='e5dc7eee80f08dd9e9169dd127f970631006ad72f0f5edfc9f5db8878e7419eb9mWc6B1x90NlbDqGtLPewg6SXZY8Z8Lb')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.321814;i:4;a:0:{}i:5;i:8938312;}i:59;a:6:{i:0;s:184:"SELECT * FROM `admin_user` WHERE (`admin_user`.`is_deleted`=FALSE) AND (`auth_token`='e5dc7eee80f08dd9e9169dd127f970631006ad72f0f5edfc9f5db8878e7419eb9mWc6B1x90NlbDqGtLPewg6SXZY8Z8Lb')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.322216;i:4;a:0:{}i:5;i:8942088;}i:61;a:6:{i:0;s:67:"UPDATE `admin_user` SET `api_last_activity`=1700742983 WHERE `id`=1";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1700742983.331833;i:4;a:0:{}i:5;i:10292320;}i:62;a:6:{i:0;s:67:"UPDATE `admin_user` SET `api_last_activity`=1700742983 WHERE `id`=1";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1700742983.333209;i:4;a:0:{}i:5;i:10292712;}i:65;a:6:{i:0;s:55:"DELETE FROM `admin_user_login_lockout` WHERE `ip`='::1'";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1700742983.335481;i:4;a:0:{}i:5;i:10495016;}i:66;a:6:{i:0;s:55:"DELETE FROM `admin_user_login_lockout` WHERE `ip`='::1'";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1700742983.335632;i:4;a:0:{}i:5;i:10495280;}i:68;a:6:{i:0;s:54:"SELECT * FROM `admin_auth` WHERE NOT (`route` IS NULL)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.336186;i:4;a:0:{}i:5;i:10523472;}i:69;a:6:{i:0;s:54:"SELECT * FROM `admin_auth` WHERE NOT (`route` IS NULL)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.33643;i:4;a:0:{}i:5;i:10528232;}i:72;a:6:{i:0;s:68:"DELETE FROM `admin_user_online` WHERE `last_timestamp` <= 1700741183";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1700742983.337061;i:4;a:0:{}i:5;i:10570000;}i:73;a:6:{i:0;s:68:"DELETE FROM `admin_user_online` WHERE `last_timestamp` <= 1700741183";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1700742983.337208;i:4;a:0:{}i:5;i:10570336;}i:75;a:6:{i:0;s:42:"SHOW FULL COLUMNS FROM `admin_user_online`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.337318;i:4;a:0:{}i:5;i:10570832;}i:76;a:6:{i:0;s:42:"SHOW FULL COLUMNS FROM `admin_user_online`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.344945;i:4;a:0:{}i:5;i:10578712;}i:78;a:6:{i:0;s:790:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_user_online' AND `kcu`.`TABLE_NAME` = 'admin_user_online'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.345175;i:4;a:0:{}i:5;i:10577448;}i:79;a:6:{i:0;s:790:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_user_online' AND `kcu`.`TABLE_NAME` = 'admin_user_online'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.345614;i:4;a:0:{}i:5;i:10578712;}i:81;a:6:{i:0;s:51:"SELECT * FROM `admin_user_online` WHERE `user_id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.345787;i:4;a:0:{}i:5;i:10580680;}i:82;a:6:{i:0;s:51:"SELECT * FROM `admin_user_online` WHERE `user_id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.346074;i:4;a:0:{}i:5;i:10581760;}i:85;a:6:{i:0;s:87:"SELECT * FROM `admin_user_auth_notification` WHERE (`user_id`=1) AND (`is_muted`=FALSE)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.348745;i:4;a:0:{}i:5;i:10780600;}i:86;a:6:{i:0;s:87:"SELECT * FROM `admin_user_auth_notification` WHERE (`user_id`=1) AND (`is_muted`=FALSE)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.349143;i:4;a:0:{}i:5;i:10799272;}i:88;a:6:{i:0;s:53:"SHOW FULL COLUMNS FROM `admin_user_auth_notification`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.349528;i:4;a:0:{}i:5;i:10821360;}i:89;a:6:{i:0;s:53:"SHOW FULL COLUMNS FROM `admin_user_auth_notification`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.35773;i:4;a:0:{}i:5;i:10829104;}i:91;a:6:{i:0;s:812:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_user_auth_notification' AND `kcu`.`TABLE_NAME` = 'admin_user_auth_notification'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.357904;i:4;a:0:{}i:5;i:10827952;}i:92;a:6:{i:0;s:812:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_user_auth_notification' AND `kcu`.`TABLE_NAME` = 'admin_user_auth_notification'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.358197;i:4;a:0:{}i:5;i:10829216;}i:94;a:6:{i:0;s:56:"SELECT `id` FROM `admin_user` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.359442;i:4;a:0:{}i:5;i:11000424;}i:95;a:6:{i:0;s:56:"SELECT `id` FROM `admin_user` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.35957;i:4;a:0:{}i:5;i:11000880;}i:97;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `admin_group`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.360179;i:4;a:0:{}i:5;i:11032880;}i:98;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `admin_group`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.367903;i:4;a:0:{}i:5;i:11037120;}i:100;a:6:{i:0;s:778:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_group' AND `kcu`.`TABLE_NAME` = 'admin_group'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.368082;i:4;a:0:{}i:5;i:11037888;}i:101;a:6:{i:0;s:778:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_group' AND `kcu`.`TABLE_NAME` = 'admin_group'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.368418;i:4;a:0:{}i:5;i:11039152;}i:103;a:6:{i:0;s:57:"SELECT `id` FROM `admin_group` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.368538;i:4;a:0:{}i:5;i:11039760;}i:104;a:6:{i:0;s:57:"SELECT `id` FROM `admin_group` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.368684;i:4;a:0:{}i:5;i:11040216;}i:106;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `catalog_group`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.369674;i:4;a:0:{}i:5;i:11101168;}i:107;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `catalog_group`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.376988;i:4;a:0:{}i:5;i:11113472;}i:109;a:6:{i:0;s:782:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_group' AND `kcu`.`TABLE_NAME` = 'catalog_group'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.377348;i:4;a:0:{}i:5;i:11110016;}i:110;a:6:{i:0;s:782:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_group' AND `kcu`.`TABLE_NAME` = 'catalog_group'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.37769;i:4;a:0:{}i:5;i:11111280;}i:112;a:6:{i:0;s:59:"SELECT `id` FROM `catalog_group` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.377818;i:4;a:0:{}i:5;i:11111848;}i:113;a:6:{i:0;s:59:"SELECT `id` FROM `catalog_group` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.377955;i:4;a:0:{}i:5;i:11112304;}i:115;a:6:{i:0;s:40:"SHOW FULL COLUMNS FROM `catalog_product`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.378577;i:4;a:0:{}i:5;i:11158072;}i:116;a:6:{i:0;s:40:"SHOW FULL COLUMNS FROM `catalog_product`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.386247;i:4;a:0:{}i:5;i:11171248;}i:118;a:6:{i:0;s:786:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_product' AND `kcu`.`TABLE_NAME` = 'catalog_product'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.386452;i:4;a:0:{}i:5;i:11167312;}i:119;a:6:{i:0;s:786:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_product' AND `kcu`.`TABLE_NAME` = 'catalog_product'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.386785;i:4;a:0:{}i:5;i:11168576;}i:121;a:6:{i:0;s:61:"SELECT `id` FROM `catalog_product` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.386911;i:4;a:0:{}i:5;i:11169152;}i:122;a:6:{i:0;s:61:"SELECT `id` FROM `catalog_product` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.387069;i:4;a:0:{}i:5;i:11169608;}i:124;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `catalog_unit`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.387439;i:4;a:0:{}i:5;i:11191424;}i:125;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `catalog_unit`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.394565;i:4;a:0:{}i:5;i:11196520;}i:127;a:6:{i:0;s:780:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_unit' AND `kcu`.`TABLE_NAME` = 'catalog_unit'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.394801;i:4;a:0:{}i:5;i:11196824;}i:128;a:6:{i:0;s:780:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_unit' AND `kcu`.`TABLE_NAME` = 'catalog_unit'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.395166;i:4;a:0:{}i:5;i:11198088;}i:130;a:6:{i:0;s:58:"SELECT `id` FROM `catalog_unit` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.395324;i:4;a:0:{}i:5;i:11204328;}i:131;a:6:{i:0;s:58:"SELECT `id` FROM `catalog_unit` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.395492;i:4;a:0:{}i:5;i:11204784;}i:133;a:6:{i:0;s:40:"SHOW FULL COLUMNS FROM `catalog_article`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.396321;i:4;a:0:{}i:5;i:11266480;}i:134;a:6:{i:0;s:40:"SHOW FULL COLUMNS FROM `catalog_article`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.405577;i:4;a:0:{}i:5;i:11281192;}i:136;a:6:{i:0;s:786:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_article' AND `kcu`.`TABLE_NAME` = 'catalog_article'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.405799;i:4;a:0:{}i:5;i:11276504;}i:137;a:6:{i:0;s:786:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_article' AND `kcu`.`TABLE_NAME` = 'catalog_article'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.406134;i:4;a:0:{}i:5;i:11277768;}i:139;a:6:{i:0;s:61:"SELECT `id` FROM `catalog_article` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.40625;i:4;a:0:{}i:5;i:11278984;}i:140;a:6:{i:0;s:61:"SELECT `id` FROM `catalog_article` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.406408;i:4;a:0:{}i:5;i:11279440;}i:142;a:6:{i:0;s:46:"SHOW FULL COLUMNS FROM `catalog_article_price`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.407446;i:4;a:0:{}i:5;i:11312504;}i:143;a:6:{i:0;s:46:"SHOW FULL COLUMNS FROM `catalog_article_price`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.416846;i:4;a:0:{}i:5;i:11318432;}i:145;a:6:{i:0;s:798:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_article_price' AND `kcu`.`TABLE_NAME` = 'catalog_article_price'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.417146;i:4;a:0:{}i:5;i:11318280;}i:146;a:6:{i:0;s:798:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_article_price' AND `kcu`.`TABLE_NAME` = 'catalog_article_price'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.417689;i:4;a:0:{}i:5;i:11320816;}i:148;a:6:{i:0;s:193:"SELECT `article_id`, `value_id`, `currency_id`, `qty`, `unit_id` FROM `catalog_article_price` ORDER BY `article_id` DESC, `value_id` DESC, `currency_id` DESC, `qty` DESC, `unit_id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.417915;i:4;a:0:{}i:5;i:11321928;}i:149;a:6:{i:0;s:193:"SELECT `article_id`, `value_id`, `currency_id`, `qty`, `unit_id` FROM `catalog_article_price` ORDER BY `article_id` DESC, `value_id` DESC, `currency_id` DESC, `qty` DESC, `unit_id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.418104;i:4;a:0:{}i:5;i:11322488;}i:151;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `cms_layout`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.418612;i:4;a:0:{}i:5;i:11344624;}i:152;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `cms_layout`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.426894;i:4;a:0:{}i:5;i:11348920;}i:154;a:6:{i:0;s:776:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_layout' AND `kcu`.`TABLE_NAME` = 'cms_layout'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.427053;i:4;a:0:{}i:5;i:11349640;}i:155;a:6:{i:0;s:776:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_layout' AND `kcu`.`TABLE_NAME` = 'cms_layout'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.427428;i:4;a:0:{}i:5;i:11350904;}i:157;a:6:{i:0;s:56:"SELECT `id` FROM `cms_layout` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.427544;i:4;a:0:{}i:5;i:11351472;}i:158;a:6:{i:0;s:56:"SELECT `id` FROM `cms_layout` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.427714;i:4;a:0:{}i:5;i:11351928;}i:160;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `cms_theme`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.42829;i:4;a:0:{}i:5;i:11379528;}i:161;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `cms_theme`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.436434;i:4;a:0:{}i:5;i:11383816;}i:163;a:6:{i:0;s:774:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_theme' AND `kcu`.`TABLE_NAME` = 'cms_theme'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.436637;i:4;a:0:{}i:5;i:11384552;}i:164;a:6:{i:0;s:774:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_theme' AND `kcu`.`TABLE_NAME` = 'cms_theme'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.436969;i:4;a:0:{}i:5;i:11385816;}i:166;a:6:{i:0;s:55:"SELECT `id` FROM `cms_theme` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.437108;i:4;a:0:{}i:5;i:11386368;}i:167;a:6:{i:0;s:55:"SELECT `id` FROM `cms_theme` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.437265;i:4;a:0:{}i:5;i:11386824;}i:169;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `cms_block`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.43802;i:4;a:0:{}i:5;i:11491544;}i:170;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `cms_block`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.448137;i:4;a:0:{}i:5;i:11495808;}i:172;a:6:{i:0;s:774:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_block' AND `kcu`.`TABLE_NAME` = 'cms_block'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.448302;i:4;a:0:{}i:5;i:11496560;}i:173;a:6:{i:0;s:774:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_block' AND `kcu`.`TABLE_NAME` = 'cms_block'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.448649;i:4;a:0:{}i:5;i:11497824;}i:175;a:6:{i:0;s:55:"SELECT `id` FROM `cms_block` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.44878;i:4;a:0:{}i:5;i:11498376;}i:176;a:6:{i:0;s:55:"SELECT `id` FROM `cms_block` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.448942;i:4;a:0:{}i:5;i:11498832;}i:178;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `cms_website`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.449594;i:4;a:0:{}i:5;i:11541048;}i:179;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `cms_website`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.458932;i:4;a:0:{}i:5;i:11552600;}i:181;a:6:{i:0;s:778:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_website' AND `kcu`.`TABLE_NAME` = 'cms_website'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.459182;i:4;a:0:{}i:5;i:11549560;}i:182;a:6:{i:0;s:778:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_website' AND `kcu`.`TABLE_NAME` = 'cms_website'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.459515;i:4;a:0:{}i:5;i:11550824;}i:184;a:6:{i:0;s:57:"SELECT `id` FROM `cms_website` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.459638;i:4;a:0:{}i:5;i:11551392;}i:185;a:6:{i:0;s:57:"SELECT `id` FROM `cms_website` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.459777;i:4;a:0:{}i:5;i:11551848;}i:187;a:6:{i:0;s:40:"SHOW FULL COLUMNS FROM `cms_block_group`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.460316;i:4;a:0:{}i:5;i:11576960;}i:188;a:6:{i:0;s:40:"SHOW FULL COLUMNS FROM `cms_block_group`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.468002;i:4;a:0:{}i:5;i:11582984;}i:190;a:6:{i:0;s:786:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_block_group' AND `kcu`.`TABLE_NAME` = 'cms_block_group'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.468179;i:4;a:0:{}i:5;i:11582776;}i:191;a:6:{i:0;s:786:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_block_group' AND `kcu`.`TABLE_NAME` = 'cms_block_group'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.468493;i:4;a:0:{}i:5;i:11584040;}i:193;a:6:{i:0;s:61:"SELECT `id` FROM `cms_block_group` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.468601;i:4;a:0:{}i:5;i:11584616;}i:194;a:6:{i:0;s:61:"SELECT `id` FROM `cms_block_group` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.46874;i:4;a:0:{}i:5;i:11585072;}i:196;a:6:{i:0;s:42:"SHOW FULL COLUMNS FROM `cms_nav_container`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.469137;i:4;a:0:{}i:5;i:11610472;}i:197;a:6:{i:0;s:42:"SHOW FULL COLUMNS FROM `cms_nav_container`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.479084;i:4;a:0:{}i:5;i:11615576;}i:199;a:6:{i:0;s:790:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_nav_container' AND `kcu`.`TABLE_NAME` = 'cms_nav_container'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.479253;i:4;a:0:{}i:5;i:11615880;}i:200;a:6:{i:0;s:790:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'cms_nav_container' AND `kcu`.`TABLE_NAME` = 'cms_nav_container'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.479627;i:4;a:0:{}i:5;i:11617144;}i:202;a:6:{i:0;s:63:"SELECT `id` FROM `cms_nav_container` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.479745;i:4;a:0:{}i:5;i:11617720;}i:203;a:6:{i:0;s:63:"SELECT `id` FROM `cms_nav_container` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.479898;i:4;a:0:{}i:5;i:11618176;}i:205;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `gallery_cat`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.480359;i:4;a:0:{}i:5;i:11642944;}i:206;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `gallery_cat`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.489018;i:4;a:0:{}i:5;i:11647176;}i:208;a:6:{i:0;s:778:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'gallery_cat' AND `kcu`.`TABLE_NAME` = 'gallery_cat'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.489176;i:4;a:0:{}i:5;i:11647944;}i:209;a:6:{i:0;s:778:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'gallery_cat' AND `kcu`.`TABLE_NAME` = 'gallery_cat'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.489617;i:4;a:0:{}i:5;i:11649208;}i:211;a:6:{i:0;s:57:"SELECT `id` FROM `gallery_cat` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.489744;i:4;a:0:{}i:5;i:11649776;}i:212;a:6:{i:0;s:57:"SELECT `id` FROM `gallery_cat` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.489911;i:4;a:0:{}i:5;i:11650232;}i:214;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `gallery_album`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.490612;i:4;a:0:{}i:5;i:11686312;}i:215;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `gallery_album`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.499071;i:4;a:0:{}i:5;i:11695000;}i:217;a:6:{i:0;s:782:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'gallery_album' AND `kcu`.`TABLE_NAME` = 'gallery_album'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.499262;i:4;a:0:{}i:5;i:11693608;}i:218;a:6:{i:0;s:782:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'gallery_album' AND `kcu`.`TABLE_NAME` = 'gallery_album'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.499601;i:4;a:0:{}i:5;i:11694872;}i:220;a:6:{i:0;s:59:"SELECT `id` FROM `gallery_album` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.49972;i:4;a:0:{}i:5;i:11695440;}i:221;a:6:{i:0;s:59:"SELECT `id` FROM `gallery_album` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.49986;i:4;a:0:{}i:5;i:11695736;}i:223;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `admin_config`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.500495;i:4;a:0:{}i:5;i:11730072;}i:224;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `admin_config`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.511404;i:4;a:0:{}i:5;i:11734344;}i:226;a:6:{i:0;s:780:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_config' AND `kcu`.`TABLE_NAME` = 'admin_config'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.511597;i:4;a:0:{}i:5;i:11735080;}i:227;a:6:{i:0;s:780:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_config' AND `kcu`.`TABLE_NAME` = 'admin_config'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.511909;i:4;a:0:{}i:5;i:11736344;}i:229;a:6:{i:0;s:58:"SELECT `id` FROM `admin_config` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.512042;i:4;a:0:{}i:5;i:11736952;}i:230;a:6:{i:0;s:58:"SELECT `id` FROM `admin_config` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.51219;i:4;a:0:{}i:5;i:11737408;}i:232;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `admin_property`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.512758;i:4;a:0:{}i:5;i:11767416;}i:233;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `admin_property`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.522809;i:4;a:0:{}i:5;i:11775224;}i:235;a:6:{i:0;s:784:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_property' AND `kcu`.`TABLE_NAME` = 'admin_property'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.523019;i:4;a:0:{}i:5;i:11774024;}i:236;a:6:{i:0;s:784:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_property' AND `kcu`.`TABLE_NAME` = 'admin_property'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.523333;i:4;a:0:{}i:5;i:11775288;}i:238;a:6:{i:0;s:60:"SELECT `id` FROM `admin_property` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.523452;i:4;a:0:{}i:5;i:11775904;}i:239;a:6:{i:0;s:60:"SELECT `id` FROM `admin_property` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.5236;i:4;a:0:{}i:5;i:11776360;}i:241;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `admin_tag`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.524085;i:4;a:0:{}i:5;i:11809176;}i:242;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `admin_tag`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.531342;i:4;a:0:{}i:5;i:11812592;}i:244;a:6:{i:0;s:774:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_tag' AND `kcu`.`TABLE_NAME` = 'admin_tag'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.531495;i:4;a:0:{}i:5;i:11813792;}i:245;a:6:{i:0;s:774:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'admin_tag' AND `kcu`.`TABLE_NAME` = 'admin_tag'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.531783;i:4;a:0:{}i:5;i:11815056;}i:247;a:6:{i:0;s:55:"SELECT `id` FROM `admin_tag` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.531901;i:4;a:0:{}i:5;i:11815664;}i:248;a:6:{i:0;s:55:"SELECT `id` FROM `admin_tag` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.532038;i:4;a:0:{}i:5;i:11815960;}i:250;a:6:{i:0;s:40:"SHOW FULL COLUMNS FROM `catalog_related`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.53235;i:4;a:0:{}i:5;i:11836800;}i:251;a:6:{i:0;s:40:"SHOW FULL COLUMNS FROM `catalog_related`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.539327;i:4;a:0:{}i:5;i:11840128;}i:253;a:6:{i:0;s:786:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_related' AND `kcu`.`TABLE_NAME` = 'catalog_related'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.539516;i:4;a:0:{}i:5;i:11841416;}i:254;a:6:{i:0;s:786:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `constraint_name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `referenced_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `referenced_column_name`
+FROM `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`
+JOIN `information_schema`.`KEY_COLUMN_USAGE` AS `kcu` ON
+    (
+        `kcu`.`CONSTRAINT_CATALOG` = `rc`.`CONSTRAINT_CATALOG` OR
+        (`kcu`.`CONSTRAINT_CATALOG` IS NULL AND `rc`.`CONSTRAINT_CATALOG` IS NULL)
+    ) AND
+    `kcu`.`CONSTRAINT_SCHEMA` = `rc`.`CONSTRAINT_SCHEMA` AND
+    `kcu`.`CONSTRAINT_NAME` = `rc`.`CONSTRAINT_NAME`
+WHERE `rc`.`CONSTRAINT_SCHEMA` = database() AND `kcu`.`TABLE_SCHEMA` = database()
+AND `rc`.`TABLE_NAME` = 'catalog_related' AND `kcu`.`TABLE_NAME` = 'catalog_related'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.539822;i:4;a:0:{}i:5;i:11842680;}i:256;a:6:{i:0;s:61:"SELECT `id` FROM `catalog_related` ORDER BY `id` DESC LIMIT 1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.539946;i:4;a:0:{}i:5;i:11844536;}i:257;a:6:{i:0;s:61:"SELECT `id` FROM `catalog_related` ORDER BY `id` DESC LIMIT 1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.540095;i:4;a:0:{}i:5;i:11849088;}i:259;a:6:{i:0;s:33:"SELECT * FROM `admin_user_online`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.540212;i:4;a:0:{}i:5;i:11848544;}i:260;a:6:{i:0;s:33:"SELECT * FROM `admin_user_online`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.540361;i:4;a:0:{}i:5;i:11849760;}i:262;a:6:{i:0;s:79:"SELECT * FROM `admin_user` WHERE (`admin_user`.`is_deleted`=FALSE) AND (`id`=1)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.541126;i:4;a:0:{}i:5;i:11887240;}i:263;a:6:{i:0;s:79:"SELECT * FROM `admin_user` WHERE (`admin_user`.`is_deleted`=FALSE) AND (`id`=1)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.541324;i:4;a:0:{}i:5;i:11890520;}i:265;a:6:{i:0;s:273:"SELECT `user_id`, `lock_pk`, `lock_table`, `last_timestamp`, `firstname`, `lastname`, `admin_user`.`id` FROM `admin_user_online` LEFT JOIN `admin_user` ON `admin_user_online`.`user_id` = `admin_user`.`id` WHERE (`admin_user`.`id` != 1) AND (`admin_user`.`is_deleted`=FALSE)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.542691;i:4;a:0:{}i:5;i:11999872;}i:266;a:6:{i:0;s:273:"SELECT `user_id`, `lock_pk`, `lock_table`, `last_timestamp`, `firstname`, `lastname`, `admin_user`.`id` FROM `admin_user_online` LEFT JOIN `admin_user` ON `admin_user_online`.`user_id` = `admin_user`.`id` WHERE (`admin_user`.`id` != 1) AND (`admin_user`.`is_deleted`=FALSE)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1700742983.542905;i:4;a:0:{}i:5;i:12000656;}}}";s:5:"event";s:24329:"a:130:{i:0;a:5:{s:4:"time";d:1700742983.270244;s:4:"name";s:9:"afterOpen";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:17:"yii\db\Connection";}i:1;a:5:{s:4:"time";d:1700742983.296415;s:4:"name";s:13:"beforeRequest";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:20:"luya\web\Application";}i:2;a:5:{s:4:"time";d:1700742983.301062;s:4:"name";s:12:"beforeAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:20:"luya\web\Application";}i:3;a:5:{s:4:"time";d:1700742983.301071;s:4:"name";s:12:"beforeAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:17:"luya\admin\Module";}i:4;a:5:{s:4:"time";d:1700742983.30503;s:4:"name";s:25:"eventUserAccessTokenLogin";s:5:"class";s:43:"luya\admin\events\UserAccessTokenLoginEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:20:"luya\web\Application";}i:5;a:5:{s:4:"time";d:1700742983.308174;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:6;a:5:{s:4:"time";d:1700742983.329804;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:22:"luya\admin\models\User";}i:7;a:5:{s:4:"time";d:1700742983.331743;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:22:"luya\admin\models\User";}i:8;a:5:{s:4:"time";d:1700742983.333337;s:4:"name";s:11:"beforeLogin";s:5:"class";s:17:"yii\web\UserEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:31:"luya\admin\components\AdminUser";}i:9;a:5:{s:4:"time";d:1700742983.333521;s:4:"name";s:18:"missingTranslation";s:5:"class";s:32:"yii\i18n\MissingTranslationEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:25:"yii\i18n\PhpMessageSource";}i:10;a:5:{s:4:"time";d:1700742983.333534;s:4:"name";s:18:"missingTranslation";s:5:"class";s:32:"yii\i18n\MissingTranslationEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:25:"yii\i18n\PhpMessageSource";}i:11;a:5:{s:4:"time";d:1700742983.333542;s:4:"name";s:18:"missingTranslation";s:5:"class";s:32:"yii\i18n\MissingTranslationEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:25:"yii\i18n\PhpMessageSource";}i:12;a:5:{s:4:"time";d:1700742983.333548;s:4:"name";s:18:"missingTranslation";s:5:"class";s:32:"yii\i18n\MissingTranslationEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:25:"yii\i18n\PhpMessageSource";}i:13;a:5:{s:4:"time";d:1700742983.333554;s:4:"name";s:18:"missingTranslation";s:5:"class";s:32:"yii\i18n\MissingTranslationEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:25:"yii\i18n\PhpMessageSource";}i:14;a:5:{s:4:"time";d:1700742983.33356;s:4:"name";s:18:"missingTranslation";s:5:"class";s:32:"yii\i18n\MissingTranslationEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:25:"yii\i18n\PhpMessageSource";}i:15;a:5:{s:4:"time";d:1700742983.333566;s:4:"name";s:18:"missingTranslation";s:5:"class";s:32:"yii\i18n\MissingTranslationEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:25:"yii\i18n\PhpMessageSource";}i:16;a:5:{s:4:"time";d:1700742983.335644;s:4:"name";s:10:"afterLogin";s:5:"class";s:17:"yii\web\UserEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:31:"luya\admin\components\AdminUser";}i:17;a:5:{s:4:"time";d:1700742983.335678;s:4:"name";s:12:"beforeAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:35:"luya\admin\apis\TimestampController";}i:18;a:5:{s:4:"time";d:1700742983.335905;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:19;a:5:{s:4:"time";d:1700742983.33726;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:20;a:5:{s:4:"time";d:1700742983.34611;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:28:"luya\admin\models\UserOnline";}i:21;a:5:{s:4:"time";d:1700742983.346172;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:28:"luya\admin\models\UserOnline";}i:22;a:5:{s:4:"time";d:1700742983.348591;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:23;a:5:{s:4:"time";d:1700742983.34949;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:24;a:5:{s:4:"time";d:1700742983.358252;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:25;a:5:{s:4:"time";d:1700742983.358279;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:26;a:5:{s:4:"time";d:1700742983.358298;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:27;a:5:{s:4:"time";d:1700742983.358317;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:28;a:5:{s:4:"time";d:1700742983.358333;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:29;a:5:{s:4:"time";d:1700742983.358358;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:30;a:5:{s:4:"time";d:1700742983.358375;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:31;a:5:{s:4:"time";d:1700742983.358392;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:32;a:5:{s:4:"time";d:1700742983.358408;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:33;a:5:{s:4:"time";d:1700742983.358426;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:34;a:5:{s:4:"time";d:1700742983.358444;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:35;a:5:{s:4:"time";d:1700742983.35846;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:36;a:5:{s:4:"time";d:1700742983.358478;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:37;a:5:{s:4:"time";d:1700742983.358494;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:38;a:5:{s:4:"time";d:1700742983.358511;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:39;a:5:{s:4:"time";d:1700742983.358528;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:40;a:5:{s:4:"time";d:1700742983.358545;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:41;a:5:{s:4:"time";d:1700742983.358561;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:42;a:5:{s:4:"time";d:1700742983.358587;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:43;a:5:{s:4:"time";d:1700742983.358604;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:44;a:5:{s:4:"time";d:1700742983.358622;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:45;a:5:{s:4:"time";d:1700742983.358638;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:46;a:5:{s:4:"time";d:1700742983.358654;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:47;a:5:{s:4:"time";d:1700742983.35867;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:48;a:5:{s:4:"time";d:1700742983.358686;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:49;a:5:{s:4:"time";d:1700742983.358702;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:50;a:5:{s:4:"time";d:1700742983.358719;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:51;a:5:{s:4:"time";d:1700742983.358735;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:52;a:5:{s:4:"time";d:1700742983.358751;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:53;a:5:{s:4:"time";d:1700742983.358767;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:54;a:5:{s:4:"time";d:1700742983.358783;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:55;a:5:{s:4:"time";d:1700742983.358802;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:56;a:5:{s:4:"time";d:1700742983.358818;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:57;a:5:{s:4:"time";d:1700742983.358833;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:58;a:5:{s:4:"time";d:1700742983.358853;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:59;a:5:{s:4:"time";d:1700742983.358867;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:60;a:5:{s:4:"time";d:1700742983.358871;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:61;a:5:{s:4:"time";d:1700742983.358875;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:62;a:5:{s:4:"time";d:1700742983.358879;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:63;a:5:{s:4:"time";d:1700742983.358882;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:64;a:5:{s:4:"time";d:1700742983.358886;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:65;a:5:{s:4:"time";d:1700742983.35889;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:66;a:5:{s:4:"time";d:1700742983.358893;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:67;a:5:{s:4:"time";d:1700742983.358897;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:68;a:5:{s:4:"time";d:1700742983.358901;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:69;a:5:{s:4:"time";d:1700742983.358904;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:70;a:5:{s:4:"time";d:1700742983.358908;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:71;a:5:{s:4:"time";d:1700742983.358911;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:72;a:5:{s:4:"time";d:1700742983.358915;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:73;a:5:{s:4:"time";d:1700742983.358919;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:74;a:5:{s:4:"time";d:1700742983.358922;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:75;a:5:{s:4:"time";d:1700742983.358926;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:76;a:5:{s:4:"time";d:1700742983.358929;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:77;a:5:{s:4:"time";d:1700742983.358933;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:78;a:5:{s:4:"time";d:1700742983.358937;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:79;a:5:{s:4:"time";d:1700742983.35894;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:80;a:5:{s:4:"time";d:1700742983.358944;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:81;a:5:{s:4:"time";d:1700742983.358947;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:82;a:5:{s:4:"time";d:1700742983.358951;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:83;a:5:{s:4:"time";d:1700742983.358954;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:84;a:5:{s:4:"time";d:1700742983.358958;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:85;a:5:{s:4:"time";d:1700742983.358962;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:86;a:5:{s:4:"time";d:1700742983.358965;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:87;a:5:{s:4:"time";d:1700742983.358969;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:88;a:5:{s:4:"time";d:1700742983.358972;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:89;a:5:{s:4:"time";d:1700742983.358977;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:90;a:5:{s:4:"time";d:1700742983.358981;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:91;a:5:{s:4:"time";d:1700742983.358984;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:92;a:5:{s:4:"time";d:1700742983.358988;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:93;a:5:{s:4:"time";d:1700742983.358991;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:94;a:5:{s:4:"time";d:1700742983.358995;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"luya\admin\models\UserAuthNotification";}i:95;a:5:{s:4:"time";d:1700742983.359366;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:96;a:5:{s:4:"time";d:1700742983.368445;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:97;a:5:{s:4:"time";d:1700742983.377722;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:98;a:5:{s:4:"time";d:1700742983.386814;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:99;a:5:{s:4:"time";d:1700742983.395209;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:100;a:5:{s:4:"time";d:1700742983.406162;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:101;a:5:{s:4:"time";d:1700742983.41773;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:102;a:5:{s:4:"time";d:1700742983.427455;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:103;a:5:{s:4:"time";d:1700742983.437001;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:104;a:5:{s:4:"time";d:1700742983.448679;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:105;a:5:{s:4:"time";d:1700742983.459544;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:106;a:5:{s:4:"time";d:1700742983.46852;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:107;a:5:{s:4:"time";d:1700742983.479656;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:108;a:5:{s:4:"time";d:1700742983.489652;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:109;a:5:{s:4:"time";d:1700742983.499628;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:110;a:5:{s:4:"time";d:1700742983.511946;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:111;a:5:{s:4:"time";d:1700742983.52336;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:112;a:5:{s:4:"time";d:1700742983.531816;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:113;a:5:{s:4:"time";d:1700742983.539859;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:114;a:5:{s:4:"time";d:1700742983.540144;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:115;a:5:{s:4:"time";d:1700742983.540379;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:28:"luya\admin\models\UserOnline";}i:116;a:5:{s:4:"time";d:1700742983.540429;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:117;a:5:{s:4:"time";d:1700742983.541816;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:22:"luya\admin\models\User";}i:118;a:5:{s:4:"time";d:1700742983.541892;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:22:"luya\admin\models\User";}i:119;a:5:{s:4:"time";d:1700742983.541904;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:28:"luya\admin\models\UserOnline";}i:120;a:5:{s:4:"time";d:1700742983.542523;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:121;a:5:{s:4:"time";d:1700742983.542561;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:28:"luya\admin\models\UserOnline";}i:122;a:5:{s:4:"time";d:1700742983.542575;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:40:"luya\admin\ngrest\base\NgRestActiveQuery";}i:123;a:5:{s:4:"time";d:1700742983.542975;s:4:"name";s:11:"afterAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:35:"luya\admin\apis\TimestampController";}i:124;a:5:{s:4:"time";d:1700742983.54333;s:4:"name";s:11:"afterAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:17:"luya\admin\Module";}i:125;a:5:{s:4:"time";d:1700742983.543337;s:4:"name";s:11:"afterAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:20:"luya\web\Application";}i:126;a:5:{s:4:"time";d:1700742983.543346;s:4:"name";s:12:"afterRequest";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:20:"luya\web\Application";}i:127;a:5:{s:4:"time";d:1700742983.543352;s:4:"name";s:10:"beforeSend";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:16:"yii\web\Response";}i:128;a:5:{s:4:"time";d:1700742983.54387;s:4:"name";s:12:"afterPrepare";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:16:"yii\web\Response";}i:129;a:5:{s:4:"time";d:1700742983.543928;s:4:"name";s:9:"afterSend";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:16:"yii\web\Response";}}";s:4:"mail";s:6:"a:0:{}";s:8:"timeline";s:92:"a:3:{s:5:"start";d:1700742983.247455;s:3:"end";d:1700742983.548502;s:6:"memory";i:12183816;}";s:4:"dump";s:6:"a:0:{}";s:6:"router";s:3035:"a:3:{s:8:"messages";a:15:{i:33;a:6:{i:0;a:3:{s:4:"rule";s:3:"gii";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1700742983.296443;i:4;a:0:{}i:5;i:7385144;}i:34;a:6:{i:0;a:3:{s:4:"rule";s:12:"gii/<id:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1700742983.296447;i:4;a:0:{}i:5;i:7385736;}i:35;a:6:{i:0;a:3:{s:4:"rule";s:41:"gii/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1700742983.29645;i:4;a:0:{}i:5;i:7386328;}i:36;a:6:{i:0;a:3:{s:4:"rule";s:5:"debug";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1700742983.296452;i:4;a:0:{}i:5;i:7386920;}i:37;a:6:{i:0;a:3:{s:4:"rule";s:43:"debug/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1700742983.296455;i:4;a:0:{}i:5;i:7387512;}i:38;a:6:{i:0;a:3:{s:4:"rule";s:4:"home";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1700742983.296458;i:4;a:0:{}i:5;i:7388104;}i:39;a:6:{i:0;a:3:{s:4:"rule";s:7:"contact";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1700742983.29646;i:4;a:0:{}i:5;i:7388696;}i:40;a:6:{i:0;a:3:{s:4:"rule";s:42:"file/<id:\d+>/<hash:\w+>/<fileName:(.*?)+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1700742983.296462;i:4;a:0:{}i:5;i:7389288;}i:41;a:6:{i:0;a:3:{s:4:"rule";s:5:"admin";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1700742983.296464;i:4;a:0:{}i:5;i:7389880;}i:42;a:6:{i:0;a:3:{s:4:"rule";s:11:"admin/login";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1700742983.296466;i:4;a:0:{}i:5;i:7390472;}i:43;a:6:{i:0;a:3:{s:4:"rule";s:29:"luya\admin\components\UrlRule";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1700742983.296474;i:4;a:0:{}i:5;i:7391064;}i:44;a:6:{i:0;a:3:{s:4:"rule";s:29:"luya\admin\components\UrlRule";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1700742983.296475;i:4;a:0:{}i:5;i:7391656;}i:45;a:6:{i:0;s:55:"Request parsed with URL rule: admin/api-admin-timestamp";i:1;i:8;i:2;s:29:"yii\web\UrlRule::parseRequest";i:3;d:1700742983.296484;i:4;a:0:{}i:5;i:7392256;}i:46;a:6:{i:0;a:3:{s:4:"rule";s:30:"POST admin/api-admin-timestamp";s:5:"match";b:1;s:6:"parent";s:29:"luya\admin\components\UrlRule";}i:1;i:8;i:2;s:30:"yii\rest\UrlRule::parseRequest";i:3;d:1700742983.296487;i:4;a:0:{}i:5;i:7392816;}i:47;a:6:{i:0;a:3:{s:4:"rule";s:29:"luya\admin\components\UrlRule";s:5:"match";b:1;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1700742983.296488;i:4;a:0:{}i:5;i:7393408;}}s:5:"route";s:31:"admin/api-admin-timestamp/index";s:6:"action";s:50:"luya\admin\apis\TimestampController::actionIndex()";}";s:7:"request";s:6746:"a:15:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:18:{s:4:"host";s:14:"localhost:2020";s:10:"connection";s:10:"keep-alive";s:14:"content-length";s:2:"31";s:9:"sec-ch-ua";s:66:""Microsoft Edge";v="119", "Chromium";v="119", "Not?A_Brand";v="24"";s:6:"accept";s:33:"application/json, text/plain, */*";s:12:"content-type";s:30:"application/json;charset=UTF-8";s:16:"sec-ch-ua-mobile";s:2:"?0";s:13:"authorization";s:103:"Bearer e5dc7eee80f08dd9e9169dd127f970631006ad72f0f5edfc9f5db8878e7419eb9mWc6B1x90NlbDqGtLPewg6SXZY8Z8Lb";s:10:"user-agent";s:125:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0";s:18:"sec-ch-ua-platform";s:9:""Windows"";s:6:"origin";s:21:"http://localhost:2020";s:14:"sec-fetch-site";s:11:"same-origin";s:14:"sec-fetch-mode";s:4:"cors";s:14:"sec-fetch-dest";s:5:"empty";s:7:"referer";s:27:"http://localhost:2020/admin";s:15:"accept-encoding";s:17:"gzip, deflate, br";s:15:"accept-language";s:14:"en-US,en;q=0.9";s:6:"cookie";s:812:"viewed_ids=6169481f01b8cc4d2a9113a308021b3aa2e16301ae14ac1661a610f21819cac6a%3A2%3A%7Bi%3A0%3Bs%3A10%3A%22viewed_ids%22%3Bi%3A1%3Bs%3A22%3A%22a%3A2%3A%7Bi%3A0%3Bi%3A3%3Bi%3A1%3Bi%3A4%3B%7D%22%3B%7D; cart=cb8da721cdf4670b1491e1aa50a53d2ce3818daf35be0e4e7e9fc3f1132b3a66a%3A2%3A%7Bi%3A0%3Bs%3A4%3A%22cart%22%3Bi%3A1%3Bs%3A26%3A%22a%3A2%3A%7Bi%3A4%3Bs%3A1%3A%224%22%3Bi%3A3%3Bi%3A1%3B%7D%22%3B%7D; _identity=a5b53a4b04152cf319e2b7059099dca7990907892e7e9b41368c4e2bec43ca1ea%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A28%3A%22%5B%22100%22%2C%22test100key%22%2C2592000%5D%22%3B%7D; PHPSESSID=k5btmdo4udmdm68glsiu4b7jad; _csrf_admin=8aa03f470b4ed468d27a30ae8f12eae72501cb49576559607c90fe164bffe343a%3A2%3A%7Bi%3A0%3Bs%3A11%3A%22_csrf_admin%22%3Bi%3A1%3Bs%3A32%3A%22jYOV6bHLvqds5P8QV18rdlPWZGsL8_BT%22%3B%7D";}s:15:"responseHeaders";a:11:{s:12:"X-Powered-By";s:9:"PHP/8.2.4";s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:35:"no-store, no-cache, must-revalidate";s:6:"Pragma";s:8:"no-cache";s:4:"Vary";a:2:{i:0;s:6:"Accept";i:1;s:15:"Accept-Language";}s:14:"X-Cruft-Length";s:1:"6";s:12:"Content-Type";s:31:"application/json; charset=UTF-8";s:11:"X-Debug-Tag";s:13:"655f474744ba5";s:16:"X-Debug-Duration";s:3:"297";s:12:"X-Debug-Link";s:37:"/debug/default/view?tag=655f474744ba5";s:10:"Set-Cookie";s:217:"_csrf_admin=f11539e380ab8c179ad0a274d3f04b9b0fba9e25121064126a02d80a6a7bfc59a%3A2%3A%7Bi%3A0%3Bs%3A11%3A%22_csrf_admin%22%3Bi%3A1%3Bs%3A32%3A%225-DIu20YrFod_m6hL0t7wD7y1HFWogLj%22%3B%7D; path=/; HttpOnly; SameSite=Lax";}s:5:"route";s:31:"admin/api-admin-timestamp/index";s:6:"action";s:50:"luya\admin\apis\TimestampController::actionIndex()";s:12:"actionParams";a:0:{}s:7:"general";a:5:{s:6:"method";s:4:"POST";s:6:"isAjax";b:0;s:6:"isPjax";b:0;s:7:"isFlash";b:0;s:18:"isSecureConnection";b:0;}s:11:"requestBody";a:3:{s:12:"Content Type";s:30:"application/json;charset=UTF-8";s:3:"Raw";s:31:"{"lastKeyStroke":1700742835115}";s:7:"Decoded";a:1:{s:13:"lastKeyStroke";i:1700742835115;}}s:6:"SERVER";a:35:{s:13:"DOCUMENT_ROOT";s:23:"C:\cakeshop\public_html";s:11:"REMOTE_ADDR";s:3:"::1";s:11:"REMOTE_PORT";s:5:"51725";s:15:"SERVER_SOFTWARE";s:28:"PHP 8.2.4 Development Server";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:11:"SERVER_NAME";s:9:"localhost";s:11:"SERVER_PORT";s:4:"2020";s:11:"REQUEST_URI";s:26:"/admin/api-admin-timestamp";s:14:"REQUEST_METHOD";s:4:"POST";s:11:"SCRIPT_NAME";s:10:"/index.php";s:15:"SCRIPT_FILENAME";s:33:"C:\cakeshop\public_html\index.php";s:9:"PATH_INFO";s:26:"/admin/api-admin-timestamp";s:8:"PHP_SELF";s:36:"/index.php/admin/api-admin-timestamp";s:9:"HTTP_HOST";s:14:"localhost:2020";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:14:"CONTENT_LENGTH";s:2:"31";s:19:"HTTP_CONTENT_LENGTH";s:2:"31";s:14:"HTTP_SEC_CH_UA";s:66:""Microsoft Edge";v="119", "Chromium";v="119", "Not?A_Brand";v="24"";s:11:"HTTP_ACCEPT";s:33:"application/json, text/plain, */*";s:12:"CONTENT_TYPE";s:30:"application/json;charset=UTF-8";s:17:"HTTP_CONTENT_TYPE";s:30:"application/json;charset=UTF-8";s:21:"HTTP_SEC_CH_UA_MOBILE";s:2:"?0";s:18:"HTTP_AUTHORIZATION";s:103:"Bearer e5dc7eee80f08dd9e9169dd127f970631006ad72f0f5edfc9f5db8878e7419eb9mWc6B1x90NlbDqGtLPewg6SXZY8Z8Lb";s:15:"HTTP_USER_AGENT";s:125:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0";s:23:"HTTP_SEC_CH_UA_PLATFORM";s:9:""Windows"";s:11:"HTTP_ORIGIN";s:21:"http://localhost:2020";s:19:"HTTP_SEC_FETCH_SITE";s:11:"same-origin";s:19:"HTTP_SEC_FETCH_MODE";s:4:"cors";s:19:"HTTP_SEC_FETCH_DEST";s:5:"empty";s:12:"HTTP_REFERER";s:27:"http://localhost:2020/admin";s:20:"HTTP_ACCEPT_ENCODING";s:17:"gzip, deflate, br";s:20:"HTTP_ACCEPT_LANGUAGE";s:14:"en-US,en;q=0.9";s:11:"HTTP_COOKIE";s:812:"viewed_ids=6169481f01b8cc4d2a9113a308021b3aa2e16301ae14ac1661a610f21819cac6a%3A2%3A%7Bi%3A0%3Bs%3A10%3A%22viewed_ids%22%3Bi%3A1%3Bs%3A22%3A%22a%3A2%3A%7Bi%3A0%3Bi%3A3%3Bi%3A1%3Bi%3A4%3B%7D%22%3B%7D; cart=cb8da721cdf4670b1491e1aa50a53d2ce3818daf35be0e4e7e9fc3f1132b3a66a%3A2%3A%7Bi%3A0%3Bs%3A4%3A%22cart%22%3Bi%3A1%3Bs%3A26%3A%22a%3A2%3A%7Bi%3A4%3Bs%3A1%3A%224%22%3Bi%3A3%3Bi%3A1%3B%7D%22%3B%7D; _identity=a5b53a4b04152cf319e2b7059099dca7990907892e7e9b41368c4e2bec43ca1ea%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A28%3A%22%5B%22100%22%2C%22test100key%22%2C2592000%5D%22%3B%7D; PHPSESSID=k5btmdo4udmdm68glsiu4b7jad; _csrf_admin=8aa03f470b4ed468d27a30ae8f12eae72501cb49576559607c90fe164bffe343a%3A2%3A%7Bi%3A0%3Bs%3A11%3A%22_csrf_admin%22%3Bi%3A1%3Bs%3A32%3A%22jYOV6bHLvqds5P8QV18rdlPWZGsL8_BT%22%3B%7D";s:18:"REQUEST_TIME_FLOAT";d:1700742983.243027;s:12:"REQUEST_TIME";i:1700742983;}s:3:"GET";a:0:{}s:4:"POST";a:0:{}s:6:"COOKIE";a:5:{s:10:"viewed_ids";s:126:"6169481f01b8cc4d2a9113a308021b3aa2e16301ae14ac1661a610f21819cac6a:2:{i:0;s:10:"viewed_ids";i:1;s:22:"a:2:{i:0;i:3;i:1;i:4;}";}";s:4:"cart";s:123:"cb8da721cdf4670b1491e1aa50a53d2ce3818daf35be0e4e7e9fc3f1132b3a66a:2:{i:0;s:4:"cart";i:1;s:26:"a:2:{i:4;s:1:"4";i:3;i:1;}";}";s:9:"_identity";s:130:"a5b53a4b04152cf319e2b7059099dca7990907892e7e9b41368c4e2bec43ca1ea:2:{i:0;s:9:"_identity";i:1;s:28:"["100","test100key",2592000]";}";s:9:"PHPSESSID";s:26:"k5btmdo4udmdm68glsiu4b7jad";s:11:"_csrf_admin";s:137:"8aa03f470b4ed468d27a30ae8f12eae72501cb49576559607c90fe164bffe343a:2:{i:0;s:11:"_csrf_admin";i:1;s:32:"jYOV6bHLvqds5P8QV18rdlPWZGsL8_BT";}";}s:5:"FILES";a:0:{}s:7:"SESSION";a:6:{s:7:"__flash";a:0:{}s:11:"__returnUrl";s:27:"http://localhost:2020/admin";s:9:"autologin";b:0;s:47:"__luyaAdmin_4da39212894ad06eb7c95810f8a2a6b0_id";i:1;s:9:"__authKey";s:60:"$2y$13$VmgaE6uGGCHYyqI35jZ66uYlevdVD6YgmsrzbOLljz/.ObcblF4DC";s:15:"__lastKeyStroke";i:1700742835115;}}";s:5:"asset";s:6:"a:0:{}";s:7:"summary";a:13:{s:3:"tag";s:13:"655f474744ba5";s:3:"url";s:47:"http://localhost:2020/admin/api-admin-timestamp";s:4:"ajax";i:0;s:6:"method";s:4:"POST";s:2:"ip";s:3:"::1";s:4:"time";d:1700742983.243027;s:10:"statusCode";i:200;s:8:"sqlCount";i:72;s:21:"excessiveCallersCount";i:0;s:9:"mailCount";i:0;s:9:"mailFiles";a:0:{}s:10:"peakMemory";i:12152208;s:14:"processingTime";d:0.29980015754699707;}s:10:"exceptions";a:0:{}}

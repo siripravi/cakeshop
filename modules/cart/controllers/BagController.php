@@ -10,7 +10,7 @@ use app\modules\cart\models\OrderForm;
 use app\modules\cart\widgets\CartWidget;
 //use app\helpers\ImageHelper;
 //use app\modules\page\models\Page;
-use app\modules\catalog\models\Article;
+use siripravi\catalog\models\Article;
 use Yii;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;

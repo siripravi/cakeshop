@@ -18,10 +18,7 @@
         "kartik-v/yii2-widgets": "*",
         "powerkernel/yii2-photoswipe": "*",
         "conquer/select2": "*",
-        "siripravi/catalog": "^1.0"
-        
-        
-        
+        "siripravi/catalog": "^1.1.0" 
     },
     "require-dev": {
         "yiisoft/yii2-debug" : "^2.0",

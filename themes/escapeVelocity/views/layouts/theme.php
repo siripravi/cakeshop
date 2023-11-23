@@ -2,7 +2,7 @@
 /**
  * @var $this \luya\web\View
  */
-//use app\modules\catalog\frontend\ResourcesAsset;
+//use siripravi\catalog\frontend\ResourcesAsset;
 use app\resources\assets\AppAsset;
 use luya\helpers\Html;
 AppAsset::register($this);

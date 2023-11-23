@@ -7,7 +7,7 @@
 use yii\bootstrap5\Nav;
 use yii\helpers\Url;
 use yii\widgets\Menu;
-use app\modules\catalog\frontend\widgets\OrderScheme;
+use siripravi\catalog\frontend\widgets\OrderScheme;
 ?>
 
 <footer class="footer-group">
